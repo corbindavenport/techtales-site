@@ -1,0 +1,25 @@
+# This is used to mirror the SoundCloud RSS feed for the techtalesshow.com because SoundCloud blocks RSS requests with CORS
+
+name: Mirror RSS feed
+
+# Controls when the workflow will run
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  # Encoding job
+  archive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      # Install dependencies
+      - name: Update RSS feed
+        run: |
+          curl --max-time 120 -i "https://feeds.soundcloud.com/users/soundcloud:users:971533159/sounds.rss" -o "mirror.rss"
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Updated RSS feed"
+          git push

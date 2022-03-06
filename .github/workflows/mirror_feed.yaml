@@ -17,7 +17,7 @@ jobs:
       # Install dependencies
       - name: Update RSS feed
         run: |
-          curl --max-time 120 -i "https://feeds.soundcloud.com/users/soundcloud:users:971533159/sounds.rss" -o "mirror.rss"
+          curl --max-time 120 "https://feeds.soundcloud.com/users/soundcloud:users:971533159/sounds.rss" -o "mirror.rss"
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .

@@ -4,7 +4,7 @@
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:971533159/sounds.rss" rel="self" type="application/rss+xml"/>
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:971533159/sounds.rss?before=1067922847" rel="next" type="application/rss+xml"/>
         <title>Tech Tales</title>
-        <link>https://mas.to/@techtales</link>
+        <link>https://techtalesshow.com</link>
         <pubDate>Fri, 25 Feb 2022 23:22:06 +0000</pubDate>
         <lastBuildDate>Fri, 25 Feb 2022 23:22:06 +0000</lastBuildDate>
         <ttl>60</ttl>
@@ -23,7 +23,7 @@
         <image>
           <url>https://i1.sndcdn.com/avatars-IGnxdcyv0ls8B4Pb-Q2XoFA-original.jpg</url>
           <title>Tech Tales</title>
-          <link>https://mas.to/@techtales</link>
+          <link>https://techtalesshow.com</link>
         </image>
         <itunes:category text="Technology"/>
         <item>

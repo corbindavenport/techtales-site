@@ -5,8 +5,8 @@
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:971533159/sounds.rss?before=1067922847" rel="next" type="application/rss+xml"/>
         <title>Tech Tales</title>
         <link>https://techtalesshow.com</link>
-        <pubDate>Fri, 25 Feb 2022 23:22:06 +0000</pubDate>
-        <lastBuildDate>Fri, 25 Feb 2022 23:22:06 +0000</lastBuildDate>
+        <pubDate>Tue, 15 Mar 2022 03:23:49 +0000</pubDate>
+        <lastBuildDate>Tue, 15 Mar 2022 03:23:49 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>All rights reserved</copyright>
@@ -27,6 +27,75 @@
         </image>
         <itunes:category text="Technology"/>
         <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1232436604</guid>
+      <title>Bleem! and Connectix VGS</title>
+      <pubDate>Fri, 18 Mar 2022 15:00:13 +0000</pubDate>
+      <link>https://soundcloud.com/techtalespodcast/bleem-and-connectix-vgs</link>
+      <itunes:duration>00:40:47</itunes:duration>
+      <itunes:author>Corbin Davenport</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>The original Sony PlayStation was a smash hit when it was released in 1994, and two commercially-sold emulators aimed to bring the PlayStation's game to the PC and Macintosh: Bleem! and Connectix Virtual Game Station. However, both emulators faced fierce legal battles with Sony, and their ultimate fates were very different.
+
+Hosted by Corbin Davenport, guest starring Katie Janzen.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support on PayPal: https://tinyurl.com/techtalesdonate
+
+Videos:
+    • https://youtu.be/3OqMcqRI-xA
+    • https://youtu.be/nGnQiReCnq0?t=142
+
+Sources:
+    • https://web.archive.org/web/19990125104324/http://www.virtualgamestation.com/
+    • https://web.archive.org/web/20001206222500/http://www.virtualgamestation.com/mid_globnews_cvgs.html
+    • https://www.latimes.com/archives/la-xpm-2001-mar-17-fi-38955-story.html
+    • https://web.archive.org/web/20020401230230/http://www.connectix.com/products/cvgs_rgl.html
+    • https://www.wired.com/1999/03/from-pentium-to-playstation/
+    • https://www.wired.com/1999/04/court-clears-playstation-clone/
+    • https://web.archive.org/web/19990429140703/http://www.bleem.com/
+    • https://www.latimes.com/archives/la-xpm-2001-nov-22-tt-7044-story.html
+    • https://pikointeractive.com/making-return-as-a-digital-games-mark/
+    • https://cyber.harvard.edu/people/tfisher/IP/2000%20Sony%20Abridged.pdf
+    • https://web.archive.org/web/20000829080513/http://www.bleem.com/press/pressrelease/bleempress.PDF
+    • https://web.archive.org/web/20010703123358/http://www.bleem.com/nshtml/products/bleemcastfaq.html
+    • https://www.myce.com/news/Sony-is-trying-to-stop-the-bleemcast-PSX-emulator-discs-for-the-1995/
+    • https://www.eurogamer.net/articles/2017-12-11-the-history-of-bleem</itunes:summary>
+      <itunes:subtitle>The original Sony PlayStation was a smash hit whe…</itunes:subtitle>
+      <description>The original Sony PlayStation was a smash hit when it was released in 1994, and two commercially-sold emulators aimed to bring the PlayStation's game to the PC and Macintosh: Bleem! and Connectix Virtual Game Station. However, both emulators faced fierce legal battles with Sony, and their ultimate fates were very different.
+
+Hosted by Corbin Davenport, guest starring Katie Janzen.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support on PayPal: https://tinyurl.com/techtalesdonate
+
+Videos:
+    • https://youtu.be/3OqMcqRI-xA
+    • https://youtu.be/nGnQiReCnq0?t=142
+
+Sources:
+    • https://web.archive.org/web/19990125104324/http://www.virtualgamestation.com/
+    • https://web.archive.org/web/20001206222500/http://www.virtualgamestation.com/mid_globnews_cvgs.html
+    • https://www.latimes.com/archives/la-xpm-2001-mar-17-fi-38955-story.html
+    • https://web.archive.org/web/20020401230230/http://www.connectix.com/products/cvgs_rgl.html
+    • https://www.wired.com/1999/03/from-pentium-to-playstation/
+    • https://www.wired.com/1999/04/court-clears-playstation-clone/
+    • https://web.archive.org/web/19990429140703/http://www.bleem.com/
+    • https://www.latimes.com/archives/la-xpm-2001-nov-22-tt-7044-story.html
+    • https://pikointeractive.com/making-return-as-a-digital-games-mark/
+    • https://cyber.harvard.edu/people/tfisher/IP/2000%20Sony%20Abridged.pdf
+    • https://web.archive.org/web/20000829080513/http://www.bleem.com/press/pressrelease/bleempress.PDF
+    • https://web.archive.org/web/20010703123358/http://www.bleem.com/nshtml/products/bleemcastfaq.html
+    • https://www.myce.com/news/Sony-is-trying-to-stop-the-bleemcast-PSX-emulator-discs-for-the-1995/
+    • https://www.eurogamer.net/articles/2017-12-11-the-history-of-bleem</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1232436604-techtalespodcast-bleem-and-connectix-vgs.mp3" length="37283287"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-67CdC9dOMFA3m1GR-hzOArw-t3000x3000.jpg"/>
+    </item><item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/1222613338</guid>
       <title>The Asus Eee PC</title>
       <pubDate>Sun, 27 Feb 2022 16:00:07 +0000</pubDate>

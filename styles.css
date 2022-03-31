@@ -2,3 +2,7 @@ body {
     padding-top: 56px;
     padding-bottom: 100px;
 }
+
+.card img {
+    border-radius: 0.25rem!important;
+}

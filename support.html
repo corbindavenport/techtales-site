@@ -42,13 +42,13 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                        <a class="nav-link" href="index.html">Home</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="episodes.html">Episodes</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="support.html">Support</a>
+                        <a class="nav-link active" aria-current="page" href="support.html">Support</a>
                     </li>
                 </ul>
                 <form class="d-flex">
@@ -96,144 +96,61 @@
         </div>
     </nav>
 
-    <!-- Description -->
+    <div class="container pt-4">
 
-    <div class="bg-primary pt-5 pb-5">
-        <div class="container">
-            <h1 class="display-5 fw-bold">Welcome to Tech Tales.</h1>
-            <p class="fs-4">Tech Tales is a podcast exploring the technology world's epic failures, forgotten successes, and everything in between. The show is created and hosted by <a href="https://corbin.io?utm_source=techtalesshow.com&utm_medium=redirect&utm_campaign=none" target="_blank">Corbin Davenport</a>, with a revolving cast of guests.</p>
-        </div>
-    </div>
+        <h1 class="mt-5 display-5 fw-bold">You can support Tech Tales!</h1>
 
-    <!-- Rest of page -->
+        <p class="mt-3 fs-5">Tech Tales is created and produced entirely in my spare time, and there are (relatively inexpensive) recurring costs for audio hosting and this very website. If you enjoy the show and feel the urge to send money over the internet, you can do so below.</p>
 
-    <div class="container">
+        <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=4SZVSMJKDS35J&lc=US&item_name=Tech%20Tales&currency_code=USD&bn=PP-DonationsBF%3Abtn_donateCC_LG.gif%3ANonHosted%22" target="_blank">
+            <button type="button" class="btn btn-success btn-lg w-100 mt-5">
+                <i class="bi bi-paypal"></i>
+                Donate via PayPal
+            </button>
+        </a>
 
-        <!-- Subscribe links -->
-
-        <div class="mt-5 fw-bold fs-3">Subscribe for free to know when new episodes are released.</div>
-
-        <div class="row mt-4">
-            <!-- Spotify -->
-            <div class="col-12 col-sm-6 col-xl-3">
-                <a href="https://open.spotify.com/show/5gFB6RWAeCG3HA2ezn4dtQ" target="_blank">
-                    <button type="button" class="btn btn-success w-100 mt-3">
-                        <i class="bi bi-spotify"></i>
-                        Spotify
-                    </button>
-                </a>
-            </div>
-            <!-- YouTube -->
-            <div class="col-12 col-sm-6 col-xl-3">
-                <a href="https://www.youtube.com/channel/UCoJhtqauQgAykvSLQSyu7UQ" target="_blank">
-                    <button type="button" class="btn btn-danger w-100 mt-3">
-                        <i class="bi bi-youtube"></i>
-                        YouTube
-                    </button>
-                </a>
-            </div>
-            <!-- SoundCloud -->
-            <div class="col-12 col-sm-6 col-xl-3">
-                <a href="https://soundcloud.com/techtalespodcast" target="_blank">
-                    <button type="button" class="btn btn-warning w-100 mt-3">
-                        <i class="bi bi-cloud"></i>
-                        SoundCloud
-                    </button>
-                </a>
-            </div>
-            <!-- Apple Podcasts -->
-            <div class="col-12 col-sm-6 col-xl-3">
-                <a href="https://podcasts.apple.com/us/podcast/tech-tales/id1572321390" target="_blank">
-                    <button type="button" class="btn btn-secondary w-100 mt-3">
-                        <i class="bi bi-apple"></i>
-                        Apple Podcasts
-                    </button>
-                </a>
-            </div>
-            <!-- Apple Podcasts -->
-            <div class="col-12 col-sm-6 col-xl-3">
-                <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjk3MTUzMzE1OS9zb3VuZHMucnNz" target="_blank">
-                    <button type="button" class="btn btn-secondary w-100 mt-3">
-                        <i class="bi bi-google"></i>
-                        Google Podcasts
-                    </button>
-                </a>
-            </div>
-            <!-- Pocket Casts -->
-            <div class="col-12 col-sm-6 col-xl-3">
-                <a href="https://pca.st/bphfxx5c" target="_blank">
-                    <button type="button" class="btn btn-danger w-100 mt-3">
-                        <i class="bi bi-bullseye"></i>
-                        Pocket Casts
-                    </button>
-                </a>
-            </div>
-            <!-- Amazon Music -->
-            <div class="col-12 col-sm-6 col-xl-3">
-                <a href="https://music.amazon.com/podcasts/f250358a-af1a-477a-a0d5-cec00e359cb6/tech-tales" target="_blank">
-                    <button type="button" class="btn btn-dark w-100 mt-3">
-                        <i class="bi bi-music-note-beamed"></i>
-                        Amazon Music
-                    </button>
-                </a>
-            </div>
-            <!-- RSS -->
-            <div class="col-12 col-sm-6 col-xl-3">
-                <a href="https://feeds.soundcloud.com/users/soundcloud:users:971533159/sounds.rss" target="_blank">
-                    <button type="button" class="btn btn-primary w-100 mt-3">
-                        <i class="bi bi-rss"></i>
-                        RSS Feed
-                    </button>
-                </a>
-            </div>
-        </div>
-
-        <!-- Preview links -->
-
-        <div class="mt-5 fw-bold fs-3">Here's the latest episode.</div>
-
-        <div class="card mt-5" id="latest-episode-card" role="button">
-            <div class="row g-0">
-                <div class="col-4 col-md-2">
-                    <img src="" class="img-fluid rounded-start" alt="Episode artwork">
-                </div>
-                <div class="col-8 col-md-10">
-                    <div class="card-body">
-                        <h5 class="card-title">Loading...</h5>
-                        <p class="card-text">Loading...</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <!-- Social media links -->
-
-        <div class="mt-5 fw-bold fs-3">Follow Tech Tales on social media, we promise not to spam.</div>
+        <p class="mt-5 fs-5">If you can't donate, spreading the word about Tech Tales helps just as much! Following the show on social media can also give the show a boost (the links are on the home page).</p>
 
         <div class="row mt-4">
             <!-- Twitter -->
             <div class="col-12 col-sm-6">
-                <a href="https://twitter.com/intent/follow?screen_name=TechTalesShow" target="_blank">
+                <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Ftechtalesshow.com&text=Check%20out%20%40TechTalesShow!" target="_blank">
                     <button type="button" class="btn btn-primary w-100 mt-3">
                         <i class="bi bi-twitter"></i>
-                        Follow on Twitter
+                        Share on Twitter
                     </button>
                 </a>
             </div>
-            <!-- Mastodon -->
+            <!-- Facebook -->
             <div class="col-12 col-sm-6">
-                <a href="https://mas.to/web/@techtales" target="_blank">
-                    <button type="button" class="btn btn-success w-100 mt-3">
-                        <i class="bi bi-mastodon"></i>
-                        Follow on Mastodon/Fediverse
+                <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Ftechtalesshow.com" target="_blank">
+                    <button type="button" class="btn btn-primary w-100 mt-3">
+                        <i class="bi bi-facebook"></i>
+                        Share on Facebook
+                    </button>
+                </a>
+            </div>
+            <!-- Tumblr -->
+            <div class="col-12 col-sm-6">
+                <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https%3A%2F%2Ftechtalesshow.com&title=Check%20out%20%40TechTalesShow!" target="_blank">
+                    <button type="button" class="btn btn-primary w-100 mt-3">
+                        <i class="bi bi-pencil-square"></i>
+                        Share on Tumblr
+                    </button>
+                </a>
+            </div>
+            <!-- LinkedIn -->
+            <div class="col-12 col-sm-6">
+                <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Ftechtalesshow.com" target="_blank">
+                    <button type="button" class="btn btn-primary w-100 mt-3">
+                        <i class="bi bi-linkedin"></i>
+                        Share on LinkedIn
                     </button>
                 </a>
             </div>
         </div>
 
     </div>
-
-    <script src="site.js"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 

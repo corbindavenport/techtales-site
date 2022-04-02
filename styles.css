@@ -6,3 +6,16 @@ body {
 .card img {
     border-radius: 0.25rem!important;
 }
+
+.player-container {
+    position: fixed;
+    display: block;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.player-container iframe {
+    width: 100%;
+    height: 20px;
+}

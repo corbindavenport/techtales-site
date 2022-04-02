@@ -14,7 +14,7 @@ async function loadRSS() {
 
 async function init() {
     var rssFeed = await loadRSS();
-    var defaultPlayerURL = 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/EPISODEID&color=%23ff5500&inverse=false&show_user=true';
+    var defaultPlayerURL = 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/EPISODEID&color=%23375a7f&inverse=true&show_user=true';
     // Initialize pages if the RSS feed loaded
     if (rssFeed) {
         if (document.getElementById('latest-episode-card')) {

@@ -18,14 +18,17 @@ async function init() {
     // Initialize pages if the RSS feed loaded
     if (rssFeed) {
         if (document.getElementById('latest-episode-card')) {
-            // Home page
+            // Update contents of latest episode card
             var latestEpisode = rssFeed.querySelector('item');
             var card = document.getElementById('latest-episode-card');
             console.log('Loaded episode details:', latestEpisode);
-            // Set data
             card.querySelector('.card-title').innerText = latestEpisode.querySelector('title').innerHTML;
             card.querySelector('.card-text').innerText = latestEpisode.querySelector('description').innerHTML.split('\n')[0];
             card.querySelector('img').setAttribute('src', latestEpisode.querySelector('*[href*="artworks"]').getAttribute('href'));
+            // Add click link for latest episode card
+            card.addEventListener('click', function() {
+                window.location = 'episodes.html'
+            })
         } else if (document.getElementById('episode-list')) {
             // Episode page
             var container = document.getElementById('episode-list');

@@ -5,8 +5,8 @@
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:971533159/sounds.rss?before=1067922847" rel="next" type="application/rss+xml"/>
         <title>Tech Tales</title>
         <link>https://techtalesshow.com</link>
-        <pubDate>Sun, 20 Mar 2022 20:02:00 +0000</pubDate>
-        <lastBuildDate>Sun, 20 Mar 2022 20:02:00 +0000</lastBuildDate>
+        <pubDate>Mon, 11 Apr 2022 03:20:05 +0000</pubDate>
+        <lastBuildDate>Mon, 11 Apr 2022 03:20:05 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>All rights reserved</copyright>
@@ -27,6 +27,67 @@
         </image>
         <itunes:category text="Technology"/>
         <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1248037975</guid>
+      <title>The Voyager Program #1: Grand Tour</title>
+      <pubDate>Tue, 12 Apr 2022 15:00:08 +0000</pubDate>
+      <link>https://soundcloud.com/techtalespodcast/the-voyager-program-grand-tour</link>
+      <itunes:duration>00:33:48</itunes:duration>
+      <itunes:author>Corbin Davenport</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>While the Space Race in the 1960s drew to a close, NASA began planning a 'Grand Tour' of the outer Solar System using a series of space probes. By 1977, Voyager 1 and 2 were ready to launch.
+
+Hosted by Corbin Davenport, guest starring Cody Toombs.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support on PayPal: https://tinyurl.com/techtalesdonate
+
+Videos:
+    • https://youtu.be/tkxP-9BEc8E?t=542
+
+Images:
+    • https://imgur.com/Rd4tOWz
+
+Sources:
+    • https://history.nasa.gov/SP-4219/Chapter11.html
+    • https://voyager.jpl.nasa.gov/mission/timeline
+    • https://www.npr.org/2010/02/12/123614938/an-alien-view-of-earth
+    • https://voyager.jpl.nasa.gov/mission/interstellar-mission
+    • https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1977-084A
+    • https://www.allaboutcircuits.com/news/voyager-mission-anniversary-computers-command-data-attitude-control/
+    • https://www.nytimes.com/2017/08/03/magazine/the-loyal-engineers-steering-nasas-voyager-probes-across-the-universe.html
+    • https://descanso.jpl.nasa.gov/DPSummary/Descanso4--Voyager_ed.pdf</itunes:summary>
+      <itunes:subtitle>While the Space Race in the 1960s drew to a close…</itunes:subtitle>
+      <description>While the Space Race in the 1960s drew to a close, NASA began planning a 'Grand Tour' of the outer Solar System using a series of space probes. By 1977, Voyager 1 and 2 were ready to launch.
+
+Hosted by Corbin Davenport, guest starring Cody Toombs.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support on PayPal: https://tinyurl.com/techtalesdonate
+
+Videos:
+    • https://youtu.be/tkxP-9BEc8E?t=542
+
+Images:
+    • https://imgur.com/Rd4tOWz
+
+Sources:
+    • https://history.nasa.gov/SP-4219/Chapter11.html
+    • https://voyager.jpl.nasa.gov/mission/timeline
+    • https://www.npr.org/2010/02/12/123614938/an-alien-view-of-earth
+    • https://voyager.jpl.nasa.gov/mission/interstellar-mission
+    • https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1977-084A
+    • https://www.allaboutcircuits.com/news/voyager-mission-anniversary-computers-command-data-attitude-control/
+    • https://www.nytimes.com/2017/08/03/magazine/the-loyal-engineers-steering-nasas-voyager-probes-across-the-universe.html
+    • https://descanso.jpl.nasa.gov/DPSummary/Descanso4--Voyager_ed.pdf</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1248037975-techtalespodcast-the-voyager-program-grand-tour.mp3" length="32466288"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-bu97wWHzUYR5Ds6r-spAWBw-t3000x3000.jpg"/>
+    </item><item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/1228348327</guid>
       <title>Aperture Science Handheld Portal Device [April Fools]</title>
       <pubDate>Fri, 01 Apr 2022 15:00:03 +0000</pubDate>

@@ -108,8 +108,18 @@
         </div>
     </div>
 
-    <div class="player-container bg-dark p-3">
-        <iframe id="player" scrolling="no" frameborder="no" allow="autoplay" src=""></iframe>
+    <div class="container-fluid player-container bg-primary">
+        <div class="row">
+            <div class="col-12 col-sm-9 col-lg-10 p-2">
+                <iframe id="player" class="w-100 align-middle" scrolling="no" frameborder="no" allow="autoplay" src=""></iframe>
+            </div>
+            <div class="col-12 col-sm-3 col-lg-2 p-2">
+                <button type="button" class="btn btn-secondary btn-sm w-100" id="reddit-btn">
+                    <i class="bi bi-reddit"></i>&nbsp;&nbsp;
+                    Discussion
+                </button>
+            </div>
+        </div>
     </div>
 
     <script src="site.js"></script>

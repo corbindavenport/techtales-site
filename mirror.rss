@@ -5,8 +5,8 @@
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:971533159/sounds.rss?before=1067922847" rel="next" type="application/rss+xml"/>
         <title>Tech Tales</title>
         <link>https://techtalesshow.com</link>
-        <pubDate>Mon, 11 Apr 2022 03:20:05 +0000</pubDate>
-        <lastBuildDate>Mon, 11 Apr 2022 03:20:05 +0000</lastBuildDate>
+        <pubDate>Sat, 23 Apr 2022 05:36:02 +0000</pubDate>
+        <lastBuildDate>Sat, 23 Apr 2022 05:36:02 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>All rights reserved</copyright>
@@ -27,6 +27,75 @@
         </image>
         <itunes:category text="Technology"/>
         <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1255405894</guid>
+      <title>The Voyager Program #2: National Lampoon's Space Exploration</title>
+      <pubDate>Mon, 25 Apr 2022 15:00:11 +0000</pubDate>
+      <link>https://soundcloud.com/techtalespodcast/the-voyager-program-national-lampoons-space-exploration</link>
+      <itunes:duration>00:23:54</itunes:duration>
+      <itunes:author>Corbin Davenport</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>The Voyager 1 and Voyager 2 space probes finally launched in late 1977, following around a decade of development and planning. Both probes captured incredible photos of Jupiter and Venus, and collected valuable scientific data, though the journey wasn't without challenges.
+
+Hosted by Corbin Davenport, guest starring Cody Toombs.
+
+Discuss this episode on Reddit: https://www.reddit.com/r/TechTalesPodcast
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support on PayPal: https://tinyurl.com/techtalesdonate
+
+Photos:
+    • https://www.nasa.gov/image-feature/voyager-1-takes-the-first-image-of-the-earth-moon-system-in-a-single-frame
+    • https://voyager.jpl.nasa.gov/galleries/images-voyager-took/jupiter/
+    • https://voyager.jpl.nasa.gov/galleries/images-voyager-took/saturn/
+
+Videos:
+    • https://youtu.be/ZQIxyqt0fV4
+
+Sources:
+    • https://history.nasa.gov/SP-4219/Chapter11.html
+    • https://voyager.jpl.nasa.gov/mission/timeline
+    • https://www.npr.org/2010/02/12/123614938/an-alien-view-of-earth
+    • https://voyager.jpl.nasa.gov/mission/interstellar-mission
+    • https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1977-084A
+    • https://www.allaboutcircuits.com/news/voyager-mission-anniversary-computers-command-data-attitude-control/
+    • https://www.nytimes.com/2017/08/03/magazine/the-loyal-engineers-steering-nasas-voyager-probes-across-the-universe.html
+    • https://descanso.jpl.nasa.gov/DPSummary/Descanso4--Voyager_ed.pdf</itunes:summary>
+      <itunes:subtitle>The Voyager 1 and Voyager 2 space probes finally …</itunes:subtitle>
+      <description>The Voyager 1 and Voyager 2 space probes finally launched in late 1977, following around a decade of development and planning. Both probes captured incredible photos of Jupiter and Venus, and collected valuable scientific data, though the journey wasn't without challenges.
+
+Hosted by Corbin Davenport, guest starring Cody Toombs.
+
+Discuss this episode on Reddit: https://www.reddit.com/r/TechTalesPodcast
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support on PayPal: https://tinyurl.com/techtalesdonate
+
+Photos:
+    • https://www.nasa.gov/image-feature/voyager-1-takes-the-first-image-of-the-earth-moon-system-in-a-single-frame
+    • https://voyager.jpl.nasa.gov/galleries/images-voyager-took/jupiter/
+    • https://voyager.jpl.nasa.gov/galleries/images-voyager-took/saturn/
+
+Videos:
+    • https://youtu.be/ZQIxyqt0fV4
+
+Sources:
+    • https://history.nasa.gov/SP-4219/Chapter11.html
+    • https://voyager.jpl.nasa.gov/mission/timeline
+    • https://www.npr.org/2010/02/12/123614938/an-alien-view-of-earth
+    • https://voyager.jpl.nasa.gov/mission/interstellar-mission
+    • https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1977-084A
+    • https://www.allaboutcircuits.com/news/voyager-mission-anniversary-computers-command-data-attitude-control/
+    • https://www.nytimes.com/2017/08/03/magazine/the-loyal-engineers-steering-nasas-voyager-probes-across-the-universe.html
+    • https://descanso.jpl.nasa.gov/DPSummary/Descanso4--Voyager_ed.pdf</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1255405894-techtalespodcast-the-voyager-program-national-lampoons-space-exploration.mp3" length="22980156"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-B2XT1STvBjneaPd5-JSvyWg-t3000x3000.jpg"/>
+    </item><item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/1248037975</guid>
       <title>The Voyager Program #1: Grand Tour</title>
       <pubDate>Tue, 12 Apr 2022 15:00:08 +0000</pubDate>

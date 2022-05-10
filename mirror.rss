@@ -5,8 +5,8 @@
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:971533159/sounds.rss?before=1067922847" rel="next" type="application/rss+xml"/>
         <title>Tech Tales</title>
         <link>https://techtalesshow.com</link>
-        <pubDate>Sat, 23 Apr 2022 05:36:02 +0000</pubDate>
-        <lastBuildDate>Sat, 23 Apr 2022 05:36:02 +0000</lastBuildDate>
+        <pubDate>Sun, 08 May 2022 17:25:32 +0000</pubDate>
+        <lastBuildDate>Sun, 08 May 2022 17:25:32 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>All rights reserved</copyright>
@@ -27,6 +27,69 @@
         </image>
         <itunes:category text="Technology"/>
         <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1264448578</guid>
+      <title>Grand Theft Auto's 'Hot Coffee'</title>
+      <pubDate>Mon, 09 May 2022 15:00:13 +0000</pubDate>
+      <link>https://soundcloud.com/techtalespodcast/grand-theft-auto-hot-coffee</link>
+      <itunes:duration>00:30:33</itunes:duration>
+      <itunes:author>Corbin Davenport</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>The Grand Theft Auto series was already pushing the limits of adult content in video games by the early 2000's, but developer Rockstar wanted to go even further for the next entry. Grand Theft Auto San Andreas was eventually released in 2004 without the planned explicit content, but when modders unlocked the scenes that Rockstar decided to hide at the last minute, all hell broke loose.
+
+Hosted by Corbin Davenport, guest starring Zachary Wander. Outro is the Grand Theft Auto San Andreas theme.
+
+Discuss this episode on Reddit: https://www.reddit.com/r/TechTalesPodcast
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support on PayPal: https://tinyurl.com/techtalesdonate
+
+Videos:
+    • https://youtu.be/yOzcbtsw_pQ
+    • https://youtu.be/EBeoWBXmgw8?t=145
+
+Sources:
+    • https://www.eurogamer.net/articles/2012-11-30-who-spilled-hot-coffee
+    • https://money.cnn.com/2004/10/25/commentary/game_over/column_gaming/index.htm
+    • https://www.theguardian.com/technology/gamesblog/2005/jul/18/gtacreatorsch
+    • https://web.archive.org/web/20090103090032/http://www.clinton.senate.gov/news/statements/details.cfm?id=240603&amp;&amp;
+    • https://www.eff.org/deeplinks/2005/07/senator-clinton-burned-hot-coffee-proposes-grand-theft-free-speech
+    • https://www.videogameschronicle.com/news/gta-trilogy-chaos-continues-as-hot-coffee-sex-files-reportedly-uncovered/
+    • https://web.archive.org/web/20050811012025/http://nomorehotcoffee.com/
+    • https://www.cnet.com/news/nasa-holoported-a-doctor-onto-the-international-space-station/
+    • https://web.archive.org/web/20051003230253/http://www.gamespot.com/news/2005/09/23/news_6134252.html</itunes:summary>
+      <itunes:subtitle>The Grand Theft Auto series was already pushing t…</itunes:subtitle>
+      <description>The Grand Theft Auto series was already pushing the limits of adult content in video games by the early 2000's, but developer Rockstar wanted to go even further for the next entry. Grand Theft Auto San Andreas was eventually released in 2004 without the planned explicit content, but when modders unlocked the scenes that Rockstar decided to hide at the last minute, all hell broke loose.
+
+Hosted by Corbin Davenport, guest starring Zachary Wander. Outro is the Grand Theft Auto San Andreas theme.
+
+Discuss this episode on Reddit: https://www.reddit.com/r/TechTalesPodcast
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support on PayPal: https://tinyurl.com/techtalesdonate
+
+Videos:
+    • https://youtu.be/yOzcbtsw_pQ
+    • https://youtu.be/EBeoWBXmgw8?t=145
+
+Sources:
+    • https://www.eurogamer.net/articles/2012-11-30-who-spilled-hot-coffee
+    • https://money.cnn.com/2004/10/25/commentary/game_over/column_gaming/index.htm
+    • https://www.theguardian.com/technology/gamesblog/2005/jul/18/gtacreatorsch
+    • https://web.archive.org/web/20090103090032/http://www.clinton.senate.gov/news/statements/details.cfm?id=240603&amp;&amp;
+    • https://www.eff.org/deeplinks/2005/07/senator-clinton-burned-hot-coffee-proposes-grand-theft-free-speech
+    • https://www.videogameschronicle.com/news/gta-trilogy-chaos-continues-as-hot-coffee-sex-files-reportedly-uncovered/
+    • https://web.archive.org/web/20050811012025/http://nomorehotcoffee.com/
+    • https://www.cnet.com/news/nasa-holoported-a-doctor-onto-the-international-space-station/
+    • https://web.archive.org/web/20051003230253/http://www.gamespot.com/news/2005/09/23/news_6134252.html</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1264448578-techtalespodcast-grand-theft-auto-hot-coffee.mp3" length="30491211"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-KNFjX1OxpBzUPzyw-KyAhpg-t3000x3000.jpg"/>
+    </item><item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/1255405894</guid>
       <title>The Voyager Program #2: National Lampoon's Space Exploration</title>
       <pubDate>Mon, 25 Apr 2022 15:00:11 +0000</pubDate>

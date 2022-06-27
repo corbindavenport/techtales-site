@@ -5,8 +5,8 @@
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:971533159/sounds.rss?before=1067922847" rel="next" type="application/rss+xml"/>
         <title>Tech Tales</title>
         <link>https://techtalesshow.com</link>
-        <pubDate>Fri, 03 Jun 2022 03:47:54 +0000</pubDate>
-        <lastBuildDate>Fri, 03 Jun 2022 03:47:54 +0000</lastBuildDate>
+        <pubDate>Sat, 25 Jun 2022 16:50:19 +0000</pubDate>
+        <lastBuildDate>Sat, 25 Jun 2022 16:50:19 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>All rights reserved</copyright>
@@ -27,6 +27,51 @@
         </image>
         <itunes:category text="Technology"/>
         <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1294269538</guid>
+      <title>Apple's Project Star Trek</title>
+      <pubDate>Sun, 26 Jun 2022 15:00:03 +0000</pubDate>
+      <link>https://soundcloud.com/techtalespodcast/apple-project-star-trek</link>
+      <itunes:duration>00:46:34</itunes:duration>
+      <itunes:author>Corbin Davenport</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Faced with growing competition from Microsoft Windows, Apple and Novell teamed up in 1992 to port the Mac operating system to PCs. The project, named 'Star Trek,' had the potential to change the landscape of the computer industry... but it didn't quite work out.
+
+Hosted by Corbin Davenport, guest starring Cody Toombs.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support on PayPal: https://tinyurl.com/techtalesdonate
+
+Sources:
+    • https://lowendmac.com/2014/star-trek-apples-first-mac-os-on-intel-project/
+    • https://www.theregister.com/1999/11/05/how_ms_played_the_incompatibility/
+    • https://www.baltimoresun.com/news/bs-xpm-1992-12-09-1992344024-story.html
+    • https://tedium.co/2021/03/24/novell-apple-macos-history/
+    • https://www.sattlers.org/mickey/tech/hardware/apple/macintosh/misc/project-star-trek.html
+    • http://millsoft.ca/billm/Newsletters/PC_Week_1993-05-03.txt</itunes:summary>
+      <itunes:subtitle>Faced with growing competition from Microsoft Win…</itunes:subtitle>
+      <description>Faced with growing competition from Microsoft Windows, Apple and Novell teamed up in 1992 to port the Mac operating system to PCs. The project, named 'Star Trek,' had the potential to change the landscape of the computer industry... but it didn't quite work out.
+
+Hosted by Corbin Davenport, guest starring Cody Toombs.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support on PayPal: https://tinyurl.com/techtalesdonate
+
+Sources:
+    • https://lowendmac.com/2014/star-trek-apples-first-mac-os-on-intel-project/
+    • https://www.theregister.com/1999/11/05/how_ms_played_the_incompatibility/
+    • https://www.baltimoresun.com/news/bs-xpm-1992-12-09-1992344024-story.html
+    • https://tedium.co/2021/03/24/novell-apple-macos-history/
+    • https://www.sattlers.org/mickey/tech/hardware/apple/macintosh/misc/project-star-trek.html
+    • http://millsoft.ca/billm/Newsletters/PC_Week_1993-05-03.txt</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1294269538-techtalespodcast-apple-project-star-trek.mp3" length="45694467"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-Po8d6Q3PMHtkr9je-xaEhyw-t3000x3000.jpg"/>
+    </item><item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/1280190511</guid>
       <title>The Voyager Program #3: Pale Blue Dot</title>
       <pubDate>Fri, 03 Jun 2022 15:00:34 +0000</pubDate>

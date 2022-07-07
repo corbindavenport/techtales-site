@@ -5,8 +5,8 @@
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:971533159/sounds.rss?before=1067922847" rel="next" type="application/rss+xml"/>
         <title>Tech Tales</title>
         <link>https://techtalesshow.com</link>
-        <pubDate>Sat, 25 Jun 2022 16:50:19 +0000</pubDate>
-        <lastBuildDate>Sat, 25 Jun 2022 16:50:19 +0000</lastBuildDate>
+        <pubDate>Wed, 06 Jul 2022 02:43:07 +0000</pubDate>
+        <lastBuildDate>Wed, 06 Jul 2022 02:43:07 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>All rights reserved</copyright>
@@ -27,6 +27,31 @@
         </image>
         <itunes:category text="Technology"/>
         <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1300295335</guid>
+      <title>Outtakes #1</title>
+      <pubDate>Wed, 06 Jul 2022 15:00:27 +0000</pubDate>
+      <link>https://soundcloud.com/techtalespodcast/outtakes-1</link>
+      <itunes:duration>00:11:48</itunes:duration>
+      <itunes:author>Corbin Davenport</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This special episode is a compilation of outtakes from recording the first 30 episodes of Tech Tales. Enjoy!
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support on PayPal: https://tinyurl.com/techtalesdonate</itunes:summary>
+      <itunes:subtitle>This special episode is a compilation of outtakes…</itunes:subtitle>
+      <description>This special episode is a compilation of outtakes from recording the first 30 episodes of Tech Tales. Enjoy!
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support on PayPal: https://tinyurl.com/techtalesdonate</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1300295335-techtalespodcast-outtakes-1.mp3" length="8923017"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-VIJ3SfjjXSlNLNON-QBZb9g-t3000x3000.jpg"/>
+    </item><item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/1294269538</guid>
       <title>Apple's Project Star Trek</title>
       <pubDate>Sun, 26 Jun 2022 15:00:03 +0000</pubDate>

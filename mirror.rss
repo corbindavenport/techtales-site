@@ -27,6 +27,59 @@
         </image>
         <itunes:category text="Technology"/>
         <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1307735311</guid>
+      <title>Microsoft Tay</title>
+      <pubDate>Fri, 22 Jul 2022 15:00:12 +0000</pubDate>
+      <link>https://soundcloud.com/techtalespodcast/microsoft-tay</link>
+      <itunes:duration>00:35:21</itunes:duration>
+      <itunes:author>Corbin Davenport</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Microsoft created an online chatbot called 'Tay' in March 2016, intended to test the limits of artificial intelligence and machine learning on social media platforms. Less than 24 hours later, Tay went off the rails.
+
+Hosted by Corbin Davenport, guest starring Joe Fedewa.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support on PayPal: https://tinyurl.com/techtalesdonate
+
+Sources:
+    • https://web.archive.org/web/20160323194709/https://tay.ai/
+https://arxiv.org/abs/1812.08989
+    • https://www.nytimes.com/2015/08/04/science/for-sympathetic-ear-more-chinese-turn-to-smartphone-program.html
+    • https://www.theverge.com/2016/3/23/11290200/tay-ai-chatbot-released-microsoft
+    • https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist
+    • https://www.businessinsider.com/microsoft-deletes-racist-genocidal-tweets-from-ai-chatbot-tay-2016-3
+    • https://web.archive.org/web/20170210055324/http://fusion.net/story/284617/8chan-microsoft-chatbot-tay-racist/
+    • https://fortune.com/2016/03/30/microsofts-tay-return/
+    • https://www.cnet.com/tech/mobile/microsoft-zo-chatbot-ai-artificial-intelligence/
+    • https://qz.com/1340990/microsofts-politically-correct-chat-bot-is-even-worse-than-its-racist-one/</itunes:summary>
+      <itunes:subtitle>Microsoft created an online chatbot called 'Tay' …</itunes:subtitle>
+      <description>Microsoft created an online chatbot called 'Tay' in March 2016, intended to test the limits of artificial intelligence and machine learning on social media platforms. Less than 24 hours later, Tay went off the rails.
+
+Hosted by Corbin Davenport, guest starring Joe Fedewa.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support on PayPal: https://tinyurl.com/techtalesdonate
+
+Sources:
+    • https://web.archive.org/web/20160323194709/https://tay.ai/
+https://arxiv.org/abs/1812.08989
+    • https://www.nytimes.com/2015/08/04/science/for-sympathetic-ear-more-chinese-turn-to-smartphone-program.html
+    • https://www.theverge.com/2016/3/23/11290200/tay-ai-chatbot-released-microsoft
+    • https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist
+    • https://www.businessinsider.com/microsoft-deletes-racist-genocidal-tweets-from-ai-chatbot-tay-2016-3
+    • https://web.archive.org/web/20170210055324/http://fusion.net/story/284617/8chan-microsoft-chatbot-tay-racist/
+    • https://fortune.com/2016/03/30/microsofts-tay-return/
+    • https://www.cnet.com/tech/mobile/microsoft-zo-chatbot-ai-artificial-intelligence/
+    • https://qz.com/1340990/microsofts-politically-correct-chat-bot-is-even-worse-than-its-racist-one/</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1307735311-techtalespodcast-microsoft-tay.mp3" length="29840996"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-rTcP3XeCgDy6lxL2-rZyXaw-t3000x3000.jpg"/>
+    </item><item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/1300295335</guid>
       <title>Outtakes #1</title>
       <pubDate>Wed, 06 Jul 2022 15:00:27 +0000</pubDate>

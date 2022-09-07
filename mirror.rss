@@ -5,8 +5,8 @@
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:971533159/sounds.rss?before=1067922847" rel="next" type="application/rss+xml"/>
         <title>Tech Tales</title>
         <link>https://techtalesshow.com</link>
-        <pubDate>Thu, 18 Aug 2022 23:57:38 +0000</pubDate>
-        <lastBuildDate>Thu, 18 Aug 2022 23:57:38 +0000</lastBuildDate>
+        <pubDate>Tue, 30 Aug 2022 22:50:55 +0000</pubDate>
+        <lastBuildDate>Tue, 30 Aug 2022 22:50:55 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>All rights reserved</copyright>
@@ -27,6 +27,59 @@
         </image>
         <itunes:category text="Technology"/>
         <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1334512216</guid>
+      <title>The Internet Explorer Story: Part Two</title>
+      <pubDate>Tue, 06 Sep 2022 15:00:09 +0000</pubDate>
+      <link>https://soundcloud.com/techtalespodcast/the-internet-explorer-story-part-two</link>
+      <itunes:duration>00:53:14</itunes:duration>
+      <itunes:author>Corbin Davenport</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Internet Explorer slowly gained market share throughout 1995 and 1996, with the release of two major updates and a slew of corporate partnerships. Behind closed doors, Microsoft fought against PC makers that wanted to support IE's main competitor, Netscape Navigator. 
+
+Hosted by Corbin Davenport, guest starring Cody Toombs.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support the Show: https://techtalesshow.com/support
+
+Videos:
+    • https://youtu.be/pUprvSUMXYE
+
+Sources:
+    • https://www.betaarchive.com/forum/viewtopic.php?t=29919
+    • https://www.webdesignmuseum.org/old-software/web-browsers
+    • https://winworldpc.com/product/internet-explorer
+    • https://news.microsoft.com/1996/05/29/microsoft-internet-explorer-3-0-beta-now-available/
+    • https://www.newspapers.com/clip/107368886/microsoft-wins-the-latest-bout-with/
+    • https://books.google.com/books?id=zDsEAAAAMBAJ&amp;pg=PA90#v=onepage&amp;q&amp;f=false
+    • https://www.wired.com/1996/11/will-activex-threaten-national-security/</itunes:summary>
+      <itunes:subtitle>Internet Explorer slowly gained market share thro…</itunes:subtitle>
+      <description>Internet Explorer slowly gained market share throughout 1995 and 1996, with the release of two major updates and a slew of corporate partnerships. Behind closed doors, Microsoft fought against PC makers that wanted to support IE's main competitor, Netscape Navigator. 
+
+Hosted by Corbin Davenport, guest starring Cody Toombs.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support the Show: https://techtalesshow.com/support
+
+Videos:
+    • https://youtu.be/pUprvSUMXYE
+
+Sources:
+    • https://www.betaarchive.com/forum/viewtopic.php?t=29919
+    • https://www.webdesignmuseum.org/old-software/web-browsers
+    • https://winworldpc.com/product/internet-explorer
+    • https://news.microsoft.com/1996/05/29/microsoft-internet-explorer-3-0-beta-now-available/
+    • https://www.newspapers.com/clip/107368886/microsoft-wins-the-latest-bout-with/
+    • https://books.google.com/books?id=zDsEAAAAMBAJ&amp;pg=PA90#v=onepage&amp;q&amp;f=false
+    • https://www.wired.com/1996/11/will-activex-threaten-national-security/</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1334512216-techtalespodcast-the-internet-explorer-story-part-two.mp3" length="51494436"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-G2HBzfUuDdPjBAnO-2dfFQg-t3000x3000.jpg"/>
+    </item><item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/1326779719</guid>
       <title>The Internet Explorer Story: Part One</title>
       <pubDate>Fri, 19 Aug 2022 15:00:46 +0000</pubDate>

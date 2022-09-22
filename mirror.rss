@@ -5,8 +5,8 @@
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:971533159/sounds.rss?before=1067922847" rel="next" type="application/rss+xml"/>
         <title>Tech Tales</title>
         <link>https://techtalesshow.com</link>
-        <pubDate>Tue, 30 Aug 2022 22:50:55 +0000</pubDate>
-        <lastBuildDate>Tue, 30 Aug 2022 22:50:55 +0000</lastBuildDate>
+        <pubDate>Mon, 19 Sep 2022 02:54:39 +0000</pubDate>
+        <lastBuildDate>Mon, 19 Sep 2022 02:54:39 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>All rights reserved</copyright>
@@ -27,6 +27,59 @@
         </image>
         <itunes:category text="Technology"/>
         <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1346451547</guid>
+      <title>The Internet Explorer Story: Part Three</title>
+      <pubDate>Wed, 21 Sep 2022 15:00:04 +0000</pubDate>
+      <link>https://soundcloud.com/techtalespodcast/the-internet-explorer-story-part-three</link>
+      <itunes:duration>00:36:49</itunes:duration>
+      <itunes:author>Corbin Davenport</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Microsoft's Internet Explorer web browser continued to rise throughout 1997, including a new release (4.0) and a deal with Apple to make it the default browser on the Mac. However, before the year was out, the United States Justice Department was ready to intervene.
+
+Hosted by Corbin Davenport, guest starring Cody Toombs.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support the Show: https://techtalesshow.com/support
+
+Videos:
+    • https://youtu.be/IOs6hnTI4lw
+
+Sources:
+    • https://ericsink.com/Browser_Wars.html
+    • https://apnews.com/article/eaccc35768012aa8c609620baa51b2c2
+    • https://www.nytimes.com/1996/09/20/business/justice-dept-in-new-inquiry-into-microsoft.html
+    • https://news.microsoft.com/1997/10/01/microsoft-internet-explorer-4-0-now-available-delivers-the-web-the-way-you-want-it-to-users-worldwide/
+    • https://www.nytimes.com/1997/10/21/business/us-tells-court-microsoft-breaks-antitrust-accord.html
+    • https://www.justice.gov/atr/cases/f1700/1763
+    • https://archive.nytimes.com/www.nytimes.com/library/tech/98/11/biztech/articles/10demo.html</itunes:summary>
+      <itunes:subtitle>Microsoft's Internet Explorer web browser continu…</itunes:subtitle>
+      <description>Microsoft's Internet Explorer web browser continued to rise throughout 1997, including a new release (4.0) and a deal with Apple to make it the default browser on the Mac. However, before the year was out, the United States Justice Department was ready to intervene.
+
+Hosted by Corbin Davenport, guest starring Cody Toombs.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support the Show: https://techtalesshow.com/support
+
+Videos:
+    • https://youtu.be/IOs6hnTI4lw
+
+Sources:
+    • https://ericsink.com/Browser_Wars.html
+    • https://apnews.com/article/eaccc35768012aa8c609620baa51b2c2
+    • https://www.nytimes.com/1996/09/20/business/justice-dept-in-new-inquiry-into-microsoft.html
+    • https://news.microsoft.com/1997/10/01/microsoft-internet-explorer-4-0-now-available-delivers-the-web-the-way-you-want-it-to-users-worldwide/
+    • https://www.nytimes.com/1997/10/21/business/us-tells-court-microsoft-breaks-antitrust-accord.html
+    • https://www.justice.gov/atr/cases/f1700/1763
+    • https://archive.nytimes.com/www.nytimes.com/library/tech/98/11/biztech/articles/10demo.html</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1346451547-techtalespodcast-the-internet-explorer-story-part-three.mp3" length="26221088"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-G2HBzfUuDdPjBAnO-2dfFQg-t3000x3000.jpg"/>
+    </item><item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/1334512216</guid>
       <title>The Internet Explorer Story: Part Two</title>
       <pubDate>Tue, 06 Sep 2022 15:00:09 +0000</pubDate>

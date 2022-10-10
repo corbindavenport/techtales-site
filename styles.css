@@ -1,0 +1,16 @@
+.techtales-header {
+    font-family: 'Righteous', sans-serif;
+}
+
+.bg-techtales {
+    background-color: #c2eace;
+}
+
+.bg-techtales .techtales-header, .bg-techtales .fw-bold {
+    color: #FFF;
+    text-shadow:
+		-2px -2px 0 #005120,
+		2px -2px 0 #005120,
+		-2px 2px 0 #005120,
+		2px 2px 0 #005120;
+}

@@ -5,8 +5,8 @@
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:971533159/sounds.rss?before=1067922847" rel="next" type="application/rss+xml"/>
         <title>Tech Tales</title>
         <link>https://techtalesshow.com</link>
-        <pubDate>Mon, 19 Sep 2022 02:54:39 +0000</pubDate>
-        <lastBuildDate>Mon, 19 Sep 2022 02:54:39 +0000</lastBuildDate>
+        <pubDate>Mon, 10 Oct 2022 03:04:21 +0000</pubDate>
+        <lastBuildDate>Mon, 10 Oct 2022 03:04:21 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>All rights reserved</copyright>
@@ -27,6 +27,35 @@
         </image>
         <itunes:category text="Technology"/>
         <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1359977350</guid>
+      <title>Movie Club: Hackers (1995)</title>
+      <pubDate>Sat, 15 Oct 2022 15:00:06 +0000</pubDate>
+      <link>https://soundcloud.com/techtalespodcast/movie-club-hackers</link>
+      <itunes:duration>00:45:43</itunes:duration>
+      <itunes:author>Corbin Davenport</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Watch Hackers: https://www.justwatch.com/us/movie/cybernet
+
+Hosted by Corbin Davenport, guest starring Zachary Wander and Joe Fedewa. Outro music is &quot;Eyes, Lips, Body&quot; (Mekon Vocal Mix) by Ramshackle.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support the Show: https://techtalesshow.com/support</itunes:summary>
+      <itunes:subtitle>Watch Hackers: https://www.justwatch.com/us/movie…</itunes:subtitle>
+      <description>Watch Hackers: https://www.justwatch.com/us/movie/cybernet
+
+Hosted by Corbin Davenport, guest starring Zachary Wander and Joe Fedewa. Outro music is &quot;Eyes, Lips, Body&quot; (Mekon Vocal Mix) by Ramshackle.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support the Show: https://techtalesshow.com/support</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1359977350-techtalespodcast-movie-club-hackers.mp3" length="36843622"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-mj0u5JCFP2HuuKGT-iMG51A-t3000x3000.jpg"/>
+    </item><item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/1346451547</guid>
       <title>The Internet Explorer Story: Part Three</title>
       <pubDate>Wed, 21 Sep 2022 15:00:04 +0000</pubDate>

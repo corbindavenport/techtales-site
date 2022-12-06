@@ -5,8 +5,8 @@
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:971533159/sounds.rss?before=1067922847" rel="next" type="application/rss+xml"/>
         <title>Tech Tales</title>
         <link>https://techtalesshow.com</link>
-        <pubDate>Mon, 07 Nov 2022 05:15:56 +0000</pubDate>
-        <lastBuildDate>Mon, 07 Nov 2022 05:15:56 +0000</lastBuildDate>
+        <pubDate>Sun, 04 Dec 2022 21:54:59 +0000</pubDate>
+        <lastBuildDate>Sun, 04 Dec 2022 21:54:59 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>All rights reserved</copyright>
@@ -27,6 +27,73 @@
         </image>
         <itunes:category text="Technology"/>
         <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1396089442</guid>
+      <title>The Saygus Scam</title>
+      <pubDate>Mon, 05 Dec 2022 16:00:14 +0000</pubDate>
+      <link>https://soundcloud.com/techtalespodcast/the-saygus-scam</link>
+      <itunes:duration>01:14:08</itunes:duration>
+      <itunes:author>Corbin Davenport</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Saygus, and its CEO Chad Sayers, made headlines in 2015 when it revealed the Saygus V SQUARED smartphone. Many broken promises and shipping delays later, Chad Sayers became the center of a U.S. Justice Department investigation.
+
+Hosted by Corbin Davenport, guest starring Katie Janzen.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support the Show: https://techtalesshow.com/support
+
+Videos &amp; Images:
+    • https://imgur.com/jhsCdPO
+    • https://youtu.be/eUOxkJllBI4
+    • https://youtu.be/4v0nc0Oi_Wc
+
+Sources:
+    • https://web.archive.org/web/20080414040050/http://www.saygus.com/news.php
+    • https://web.archive.org/web/20121216163117/http://gigaom.com:80/mobile/the-v1-android-phone-looks-pretty-slick-but-who-is-saygus-anyway/
+    • https://www.pcmag.com/archive/hands-on-with-the-saygus-vphone-245965
+    • https://www.pcmag.com/opinions/how-i-got-suckered-by-an-alleged-10m-phone-scam
+    • https://www.androidpolice.com/2015/01/29/hands-saygus-v2-pre-orders-open-today-549-act-quick-want-intriguing-smartphone-saw-ces/
+    • https://www.androidpolice.com/2015/06/15/saygus-delays-the-v-squared-yet-again-launches-mega-suspicious-indiegogo-campaign/
+    • https://www.androidpolice.com/2016/01/19/saygus-phone-switches-manufacturers-again-company-undams-lake-of-word-vomit-on-twitter-to-justify-actions/
+    • https://www.androidpolice.com/2016/08/06/saygus-says-its-restarting-the-fcc-approval-process-for-the-long-delayed-v-squared/
+    • https://www.phonearena.com/news/Remember-Saygus-We-got-an-exclusive-sit-down-with-founder-and-CEO-Chad-Sayers_id90433
+    • https://www.justice.gov/usao-ut/united-states-vs-chad-leon-sayers
+    • https://www.reuters.com/article/uk-factcheck-capitol-mob-antifa-undercov-idUSKBN29E0QO
+    • PACER: 2:21-cr-00163-DS, 2:21-cr-00229-DS-1</itunes:summary>
+      <itunes:subtitle>Saygus, and its CEO Chad Sayers, made headlines i…</itunes:subtitle>
+      <description>Saygus, and its CEO Chad Sayers, made headlines in 2015 when it revealed the Saygus V SQUARED smartphone. Many broken promises and shipping delays later, Chad Sayers became the center of a U.S. Justice Department investigation.
+
+Hosted by Corbin Davenport, guest starring Katie Janzen.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support the Show: https://techtalesshow.com/support
+
+Videos &amp; Images:
+    • https://imgur.com/jhsCdPO
+    • https://youtu.be/eUOxkJllBI4
+    • https://youtu.be/4v0nc0Oi_Wc
+
+Sources:
+    • https://web.archive.org/web/20080414040050/http://www.saygus.com/news.php
+    • https://web.archive.org/web/20121216163117/http://gigaom.com:80/mobile/the-v1-android-phone-looks-pretty-slick-but-who-is-saygus-anyway/
+    • https://www.pcmag.com/archive/hands-on-with-the-saygus-vphone-245965
+    • https://www.pcmag.com/opinions/how-i-got-suckered-by-an-alleged-10m-phone-scam
+    • https://www.androidpolice.com/2015/01/29/hands-saygus-v2-pre-orders-open-today-549-act-quick-want-intriguing-smartphone-saw-ces/
+    • https://www.androidpolice.com/2015/06/15/saygus-delays-the-v-squared-yet-again-launches-mega-suspicious-indiegogo-campaign/
+    • https://www.androidpolice.com/2016/01/19/saygus-phone-switches-manufacturers-again-company-undams-lake-of-word-vomit-on-twitter-to-justify-actions/
+    • https://www.androidpolice.com/2016/08/06/saygus-says-its-restarting-the-fcc-approval-process-for-the-long-delayed-v-squared/
+    • https://www.phonearena.com/news/Remember-Saygus-We-got-an-exclusive-sit-down-with-founder-and-CEO-Chad-Sayers_id90433
+    • https://www.justice.gov/usao-ut/united-states-vs-chad-leon-sayers
+    • https://www.reuters.com/article/uk-factcheck-capitol-mob-antifa-undercov-idUSKBN29E0QO
+    • PACER: 2:21-cr-00163-DS, 2:21-cr-00229-DS-1</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1396089442-techtalespodcast-the-saygus-scam.mp3" length="59489933"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-zTySppcyXai649vo-yYfb0Q-t3000x3000.jpg"/>
+    </item><item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/1377905749</guid>
       <title>The Internet Explorer Story: Part 4</title>
       <pubDate>Tue, 08 Nov 2022 16:00:02 +0000</pubDate>

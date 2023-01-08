@@ -5,8 +5,8 @@
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:971533159/sounds.rss?before=1067922847" rel="next" type="application/rss+xml"/>
         <title>Tech Tales</title>
         <link>https://techtalesshow.com</link>
-        <pubDate>Sun, 04 Dec 2022 21:54:59 +0000</pubDate>
-        <lastBuildDate>Sun, 04 Dec 2022 21:54:59 +0000</lastBuildDate>
+        <pubDate>Sat, 07 Jan 2023 03:57:07 +0000</pubDate>
+        <lastBuildDate>Sat, 07 Jan 2023 03:57:07 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>All rights reserved</copyright>
@@ -27,6 +27,57 @@
         </image>
         <itunes:category text="Technology"/>
         <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1418502808</guid>
+      <title>The Internet Explorer Story: Part 5</title>
+      <pubDate>Sat, 07 Jan 2023 16:00:11 +0000</pubDate>
+      <link>https://soundcloud.com/techtalespodcast/the-internet-explorer-story-part-5</link>
+      <itunes:duration>00:35:02</itunes:duration>
+      <itunes:author>Corbin Davenport</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>The legal battle between Microsoft and the United States government reached its conclusion in 2001, with Internet Explorer at the center of discussions about Microsoft's future. Meanwhile, Microsoft pressed ahead with the release of Windows XP and Internet Explorer 6.0.
+
+Hosted by Corbin Davenport, guest starring Cody Toombs.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support the Show: https://techtalesshow.com/support
+
+Sources:
+    • https://neconomides.stern.nyu.edu/networks/Microsoft_Antitrust.final.pdf
+    • https://www.wired.com/2001/02/microsoft-judge-ripped-in-court/
+    • https://www.nytimes.com/2001/06/28/business/us-appeals-court-overturns-microsoft-antitrust-ruling.html
+    • https://www.nytimes.com/2000/12/26/business/microsoft-waits-for-bush-s-position-on-its-antitrust-case.html
+    • https://money.cnn.com/2001/11/02/technology/microsoft/
+    • https://www.nytimes.com/2002/11/01/technology/judge-accepts-most-of-proposed-settlement-in-microsoft-case.html
+    • https://tech.slashdot.org/story/08/03/09/2136242/ie-55-beats-ie6-and-ie7-on-acid-3
+    • https://www.cnet.com/reviews/microsoft-internet-explorer-6-0-review/
+    • https://www.cnet.com/tech/services-and-software/microsoft-rivals-leave-minor-marks-online/</itunes:summary>
+      <itunes:subtitle>The legal battle between Microsoft and the United…</itunes:subtitle>
+      <description>The legal battle between Microsoft and the United States government reached its conclusion in 2001, with Internet Explorer at the center of discussions about Microsoft's future. Meanwhile, Microsoft pressed ahead with the release of Windows XP and Internet Explorer 6.0.
+
+Hosted by Corbin Davenport, guest starring Cody Toombs.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support the Show: https://techtalesshow.com/support
+
+Sources:
+    • https://neconomides.stern.nyu.edu/networks/Microsoft_Antitrust.final.pdf
+    • https://www.wired.com/2001/02/microsoft-judge-ripped-in-court/
+    • https://www.nytimes.com/2001/06/28/business/us-appeals-court-overturns-microsoft-antitrust-ruling.html
+    • https://www.nytimes.com/2000/12/26/business/microsoft-waits-for-bush-s-position-on-its-antitrust-case.html
+    • https://money.cnn.com/2001/11/02/technology/microsoft/
+    • https://www.nytimes.com/2002/11/01/technology/judge-accepts-most-of-proposed-settlement-in-microsoft-case.html
+    • https://tech.slashdot.org/story/08/03/09/2136242/ie-55-beats-ie6-and-ie7-on-acid-3
+    • https://www.cnet.com/reviews/microsoft-internet-explorer-6-0-review/
+    • https://www.cnet.com/tech/services-and-software/microsoft-rivals-leave-minor-marks-online/</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1418502808-techtalespodcast-the-internet-explorer-story-part-5.mp3" length="28517384"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-3TYHzrhBJr74AnAS-N37tIA-t3000x3000.jpg"/>
+    </item><item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/1396089442</guid>
       <title>The Saygus Scam</title>
       <pubDate>Mon, 05 Dec 2022 16:00:14 +0000</pubDate>

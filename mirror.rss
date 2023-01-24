@@ -5,8 +5,8 @@
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:971533159/sounds.rss?before=1067922847" rel="next" type="application/rss+xml"/>
         <title>Tech Tales</title>
         <link>https://techtalesshow.com</link>
-        <pubDate>Sat, 07 Jan 2023 03:57:07 +0000</pubDate>
-        <lastBuildDate>Sat, 07 Jan 2023 03:57:07 +0000</lastBuildDate>
+        <pubDate>Sun, 22 Jan 2023 06:29:58 +0000</pubDate>
+        <lastBuildDate>Sun, 22 Jan 2023 06:29:58 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>All rights reserved</copyright>
@@ -27,6 +27,63 @@
         </image>
         <itunes:category text="Technology"/>
         <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1429768993</guid>
+      <title>The Internet Explorer Story: Part 6</title>
+      <pubDate>Mon, 23 Jan 2023 16:00:18 +0000</pubDate>
+      <link>https://soundcloud.com/techtalespodcast/the-internet-explorer-story-part-6</link>
+      <itunes:duration>00:35:30</itunes:duration>
+      <itunes:author>Corbin Davenport</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Internet Explorer had new competition by the mid-2000s, as Firefox rose from the ashes of Netscape, and Apple released the first version of its Safari browser for Mac. Security vulnerabilities and poor web standards support were also holding the browser back, and Internet Explorer 7 didn't do much to change that.
+
+Hosted by Corbin Davenport, guest starring Cody Toombs.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support the Show: https://techtalesshow.com/support
+
+Videos:
+    • https://youtu.be/gPyrzvI7Mlc?t=3242
+
+Sources:
+    • https://www.cnet.com/tech/services-and-software/web-developers-wary-of-aol-switch/
+    • https://www.washingtonpost.com/archive/politics/2003/05/30/aol-drops-suit-joins-microsoft-in-alliance/7a6b9a25-c5a6-4b2c-be27-6c44808ca855/
+    • https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
+    • http://www.mozillazine.org/talkback.html?article=3422
+    • https://www.zdnet.com/article/researchers-warn-of-infectious-web-sites/
+    • https://www.newspapers.com/clip/115978544/microsoft-security-flaws-renew-calls/
+    • https://davidwalsh.name/6-reasons-why-ie6-must-die
+    • https://www.cnet.com/reviews/internet-explorer-7-review/
+    • https://web.archive.org/web/20110616125128/http://news.cnet.com/The-Acid2-challenge-to-Microsoft/2010-1032_3-5618723.html</itunes:summary>
+      <itunes:subtitle>Internet Explorer had new competition by the mid-…</itunes:subtitle>
+      <description>Internet Explorer had new competition by the mid-2000s, as Firefox rose from the ashes of Netscape, and Apple released the first version of its Safari browser for Mac. Security vulnerabilities and poor web standards support were also holding the browser back, and Internet Explorer 7 didn't do much to change that.
+
+Hosted by Corbin Davenport, guest starring Cody Toombs.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support the Show: https://techtalesshow.com/support
+
+Videos:
+    • https://youtu.be/gPyrzvI7Mlc?t=3242
+
+Sources:
+    • https://www.cnet.com/tech/services-and-software/web-developers-wary-of-aol-switch/
+    • https://www.washingtonpost.com/archive/politics/2003/05/30/aol-drops-suit-joins-microsoft-in-alliance/7a6b9a25-c5a6-4b2c-be27-6c44808ca855/
+    • https://blog.mozilla.org/press/2003/07/mozilla-org-announces-launch-of-the-mozilla-foundation-to-lead-open-source-browser-efforts/
+    • http://www.mozillazine.org/talkback.html?article=3422
+    • https://www.zdnet.com/article/researchers-warn-of-infectious-web-sites/
+    • https://www.newspapers.com/clip/115978544/microsoft-security-flaws-renew-calls/
+    • https://davidwalsh.name/6-reasons-why-ie6-must-die
+    • https://www.cnet.com/reviews/internet-explorer-7-review/
+    • https://web.archive.org/web/20110616125128/http://news.cnet.com/The-Acid2-challenge-to-Microsoft/2010-1032_3-5618723.html</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1429768993-techtalespodcast-the-internet-explorer-story-part-6.mp3" length="28272868"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-3TYHzrhBJr74AnAS-N37tIA-t3000x3000.jpg"/>
+    </item><item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/1418502808</guid>
       <title>The Internet Explorer Story: Part 5</title>
       <pubDate>Sat, 07 Jan 2023 16:00:11 +0000</pubDate>

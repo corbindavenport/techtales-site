@@ -5,8 +5,8 @@
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:971533159/sounds.rss?before=1067922847" rel="next" type="application/rss+xml"/>
         <title>Tech Tales</title>
         <link>https://techtalesshow.com</link>
-        <pubDate>Sun, 22 Jan 2023 06:29:58 +0000</pubDate>
-        <lastBuildDate>Sun, 22 Jan 2023 06:29:58 +0000</lastBuildDate>
+        <pubDate>Wed, 08 Feb 2023 04:42:11 +0000</pubDate>
+        <lastBuildDate>Wed, 08 Feb 2023 04:42:11 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>All rights reserved</copyright>
@@ -27,6 +27,71 @@
         </image>
         <itunes:category text="Technology"/>
         <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1442208856</guid>
+      <title>Mission SPACE</title>
+      <pubDate>Sat, 11 Feb 2023 16:00:05 +0000</pubDate>
+      <link>https://soundcloud.com/techtalespodcast/mission-space</link>
+      <itunes:duration>00:44:50</itunes:duration>
+      <itunes:author>Corbin Davenport</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Walt Disney World partnered with Hewlett-Packard to open Mission SPACE in 2003, a high-tech space flight simulator attraction. However, Disney quickly became embroiled in a lawsuit with the manufacturer, and the intense motion sickness led to the death of two people.
+
+Hosted by Corbin Davenport, guest starring Ryan Gillie.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support the Show: https://techtalesshow.com/support
+
+Videos:
+    • https://youtu.be/hhreiaMODJo?t=128
+    • https://youtu.be/OLM-uy4dQdw?t=112
+
+Sources:
+    • http://www.intercot.com/themeparks/epcot/futureworld/horizons/default.asp
+    • https://www.wdwmagic.com/attractions/mission-space/news/02mar2000-more-space-news-from-the-orlando-sentinel.htm
+    • https://www.wdwmagic.com/attractions/mission-space/news/20apr2000-mission-space-announcement-press-release.htm
+    • https://www.orlandosentinel.com/news/os-xpm-2000-04-21-0004200555-story.html
+    • https://www.nytimes.com/2006/04/15/us/national-briefing-south-florida-findings-in-death-after-disney-ride.html
+    • https://www.wdwmagic.com/attractions/mission-space/news/20aug2003-some-mission-space-facts-and-fugures.htm
+    • http://www.cnn.com/2005/US/11/15/disney.death/
+    • https://www.orlandosentinel.com/news/os-xpm-2006-06-25-spacesick25-story.html
+    • https://www.wdwmagic.com/attractions/mission-space/news/11aug2017-video---first-look-at-the-relaunched-mission-space.htm
+    • https://twitter.com/wdwnt/status/682677721177153536
+    • https://casetext.com/case/environmental-tectonics-corp-v-walt-disney-world-co
+    • https://www.bizjournals.com/losangeles/stories/2009/01/05/daily11.html</itunes:summary>
+      <itunes:subtitle>Walt Disney World partnered with Hewlett-Packard …</itunes:subtitle>
+      <description>Walt Disney World partnered with Hewlett-Packard to open Mission SPACE in 2003, a high-tech space flight simulator attraction. However, Disney quickly became embroiled in a lawsuit with the manufacturer, and the intense motion sickness led to the death of two people.
+
+Hosted by Corbin Davenport, guest starring Ryan Gillie.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support the Show: https://techtalesshow.com/support
+
+Videos:
+    • https://youtu.be/hhreiaMODJo?t=128
+    • https://youtu.be/OLM-uy4dQdw?t=112
+
+Sources:
+    • http://www.intercot.com/themeparks/epcot/futureworld/horizons/default.asp
+    • https://www.wdwmagic.com/attractions/mission-space/news/02mar2000-more-space-news-from-the-orlando-sentinel.htm
+    • https://www.wdwmagic.com/attractions/mission-space/news/20apr2000-mission-space-announcement-press-release.htm
+    • https://www.orlandosentinel.com/news/os-xpm-2000-04-21-0004200555-story.html
+    • https://www.nytimes.com/2006/04/15/us/national-briefing-south-florida-findings-in-death-after-disney-ride.html
+    • https://www.wdwmagic.com/attractions/mission-space/news/20aug2003-some-mission-space-facts-and-fugures.htm
+    • http://www.cnn.com/2005/US/11/15/disney.death/
+    • https://www.orlandosentinel.com/news/os-xpm-2006-06-25-spacesick25-story.html
+    • https://www.wdwmagic.com/attractions/mission-space/news/11aug2017-video---first-look-at-the-relaunched-mission-space.htm
+    • https://twitter.com/wdwnt/status/682677721177153536
+    • https://casetext.com/case/environmental-tectonics-corp-v-walt-disney-world-co
+    • https://www.bizjournals.com/losangeles/stories/2009/01/05/daily11.html</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1442208856-techtalespodcast-mission-space.mp3" length="34443714"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-DzrBMmvGZZ8BJdqA-j0S2QQ-t3000x3000.jpg"/>
+    </item><item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/1429768993</guid>
       <title>The Internet Explorer Story: Part 6</title>
       <pubDate>Mon, 23 Jan 2023 16:00:18 +0000</pubDate>

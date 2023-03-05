@@ -5,8 +5,8 @@
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:971533159/sounds.rss?before=1067922847" rel="next" type="application/rss+xml"/>
         <title>Tech Tales</title>
         <link>https://techtalesshow.com</link>
-        <pubDate>Wed, 08 Feb 2023 04:42:11 +0000</pubDate>
-        <lastBuildDate>Wed, 08 Feb 2023 04:42:11 +0000</lastBuildDate>
+        <pubDate>Sat, 04 Mar 2023 05:22:58 +0000</pubDate>
+        <lastBuildDate>Sat, 04 Mar 2023 05:22:58 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>All rights reserved</copyright>
@@ -27,6 +27,55 @@
         </image>
         <itunes:category text="Technology"/>
         <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1461006064</guid>
+      <title>The Internet Explorer Story: Part 7</title>
+      <pubDate>Sat, 04 Mar 2023 16:00:10 +0000</pubDate>
+      <link>https://soundcloud.com/techtalespodcast/the-internet-explorer-story-part-7</link>
+      <itunes:duration>00:29:55</itunes:duration>
+      <itunes:author>Corbin Davenport</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Internet Explorer's decline was in full swing by the late 2000s, with Mozilla Firefox, Opera, Apple's Safari, and eventually Google Chrome all fighting for a slice of the browser market. Meanwhile, the mobile version of Internet Explorer was in even worse shape than the desktop browser, and the European Union kicked off another round of legal action.
+
+Hosted by Corbin Davenport, guest starring Cody Toombs.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support the Show: https://techtalesshow.com/support
+
+Videos:
+    • https://youtu.be/G8c4KIZs0Hg
+
+Sources:
+    • https://web.archive.org/web/20101108051539/http://reviews.cnet.com/8301-12261_7-10367686-10356022.html
+    • https://news.microsoft.com/2009/03/18/microsoft-announces-availability-of-internet-explorer-8/
+    • https://arstechnica.com/information-technology/2009/03/mix09-internet-explorer-8-released-progress-unmistakable/
+    • https://ec.europa.eu/commission/presscorner/detail/en/IP_09_1941
+    • https://ec.europa.eu/commission/presscorner/detail/en/IP_13_196</itunes:summary>
+      <itunes:subtitle>Internet Explorer's decline was in full swing by …</itunes:subtitle>
+      <description>Internet Explorer's decline was in full swing by the late 2000s, with Mozilla Firefox, Opera, Apple's Safari, and eventually Google Chrome all fighting for a slice of the browser market. Meanwhile, the mobile version of Internet Explorer was in even worse shape than the desktop browser, and the European Union kicked off another round of legal action.
+
+Hosted by Corbin Davenport, guest starring Cody Toombs.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support the Show: https://techtalesshow.com/support
+
+Videos:
+    • https://youtu.be/G8c4KIZs0Hg
+
+Sources:
+    • https://web.archive.org/web/20101108051539/http://reviews.cnet.com/8301-12261_7-10367686-10356022.html
+    • https://news.microsoft.com/2009/03/18/microsoft-announces-availability-of-internet-explorer-8/
+    • https://arstechnica.com/information-technology/2009/03/mix09-internet-explorer-8-released-progress-unmistakable/
+    • https://ec.europa.eu/commission/presscorner/detail/en/IP_09_1941
+    • https://ec.europa.eu/commission/presscorner/detail/en/IP_13_196</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1461006064-techtalespodcast-the-internet-explorer-story-part-7.mp3" length="23826093"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-3TYHzrhBJr74AnAS-N37tIA-t3000x3000.jpg"/>
+    </item><item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/1442208856</guid>
       <title>Mission SPACE</title>
       <pubDate>Sat, 11 Feb 2023 16:00:05 +0000</pubDate>

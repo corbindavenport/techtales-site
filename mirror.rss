@@ -5,8 +5,8 @@
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:971533159/sounds.rss?before=1067922847" rel="next" type="application/rss+xml"/>
         <title>Tech Tales</title>
         <link>https://techtalesshow.com</link>
-        <pubDate>Sat, 04 Mar 2023 05:22:58 +0000</pubDate>
-        <lastBuildDate>Sat, 04 Mar 2023 05:22:58 +0000</lastBuildDate>
+        <pubDate>Tue, 21 Mar 2023 22:05:15 +0000</pubDate>
+        <lastBuildDate>Tue, 21 Mar 2023 22:05:15 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>All rights reserved</copyright>
@@ -27,6 +27,63 @@
         </image>
         <itunes:category text="Technology"/>
         <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1474463266</guid>
+      <title>The Internet Explorer Story: Part 8</title>
+      <pubDate>Wed, 22 Mar 2023 15:00:28 +0000</pubDate>
+      <link>https://soundcloud.com/techtalespodcast/the-internet-explorer-story-part-8</link>
+      <itunes:duration>00:34:56</itunes:duration>
+      <itunes:author>Corbin Davenport</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Microsoft tried to turn Internet Explorer around in 2010 and 2011, overhauling the mobile browser and releasing IE 9 on the desktop. Internet Explorer was finally good again, but Google Chrome was still catching up.
+
+Hosted by Corbin Davenport, guest starring Cody Toombs.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support the Show: https://techtalesshow.com/support
+
+Videos:
+    • https://youtu.be/zgvphQx9MY8
+
+Sources:
+    • https://news.microsoft.com/2011/03/14/microsoft-announces-global-availability-of-internet-explorer-9-2/
+    • https://news.microsoft.com/2010/03/16/microsoft-announces-hardware-accelerated-html5-pushes-boundaries-on-web-and-cloud-development/
+    • https://news.microsoft.com/2010/09/15/windows-internet-explorer-9-new-features-at-a-glance/
+    • https://news.microsoft.com/2011/03/17/2-3-million-internet-explorer-9-downloads-in-first-24-hours/
+    • https://arstechnica.com/information-technology/2011/03/the-most-modern-browser-there-is-internet-explorer-9-reviewed/
+    • https://www.engadget.com/2010-10-20-windows-phone-7-review.html
+    • https://www.engadget.com/2010-01-15-ie-security-flaw-exploited-in-recent-google-attacks.html
+    • https://www.engadget.com/2010-01-16-germany-advises-its-citizens-to-say-nein-to-internet-explorer.html
+    • https://www.theverge.com/2012/1/2/2676388/chrome-internet-explore-firefox-marketshare-2011-statcounter-net-applications</itunes:summary>
+      <itunes:subtitle>Microsoft tried to turn Internet Explorer around …</itunes:subtitle>
+      <description>Microsoft tried to turn Internet Explorer around in 2010 and 2011, overhauling the mobile browser and releasing IE 9 on the desktop. Internet Explorer was finally good again, but Google Chrome was still catching up.
+
+Hosted by Corbin Davenport, guest starring Cody Toombs.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support the Show: https://techtalesshow.com/support
+
+Videos:
+    • https://youtu.be/zgvphQx9MY8
+
+Sources:
+    • https://news.microsoft.com/2011/03/14/microsoft-announces-global-availability-of-internet-explorer-9-2/
+    • https://news.microsoft.com/2010/03/16/microsoft-announces-hardware-accelerated-html5-pushes-boundaries-on-web-and-cloud-development/
+    • https://news.microsoft.com/2010/09/15/windows-internet-explorer-9-new-features-at-a-glance/
+    • https://news.microsoft.com/2011/03/17/2-3-million-internet-explorer-9-downloads-in-first-24-hours/
+    • https://arstechnica.com/information-technology/2011/03/the-most-modern-browser-there-is-internet-explorer-9-reviewed/
+    • https://www.engadget.com/2010-10-20-windows-phone-7-review.html
+    • https://www.engadget.com/2010-01-15-ie-security-flaw-exploited-in-recent-google-attacks.html
+    • https://www.engadget.com/2010-01-16-germany-advises-its-citizens-to-say-nein-to-internet-explorer.html
+    • https://www.theverge.com/2012/1/2/2676388/chrome-internet-explore-firefox-marketshare-2011-statcounter-net-applications</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1474463266-techtalespodcast-the-internet-explorer-story-part-8.mp3" length="27389525"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-3TYHzrhBJr74AnAS-N37tIA-t3000x3000.jpg"/>
+    </item><item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/1461006064</guid>
       <title>The Internet Explorer Story: Part 7</title>
       <pubDate>Sat, 04 Mar 2023 16:00:10 +0000</pubDate>

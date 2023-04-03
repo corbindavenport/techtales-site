@@ -5,8 +5,8 @@
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:971533159/sounds.rss?before=1067922847" rel="next" type="application/rss+xml"/>
         <title>Tech Tales</title>
         <link>https://techtalesshow.com</link>
-        <pubDate>Tue, 21 Mar 2023 22:05:15 +0000</pubDate>
-        <lastBuildDate>Tue, 21 Mar 2023 22:05:15 +0000</lastBuildDate>
+        <pubDate>Wed, 29 Mar 2023 20:54:57 +0000</pubDate>
+        <lastBuildDate>Wed, 29 Mar 2023 20:54:57 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>All rights reserved</copyright>
@@ -27,6 +27,69 @@
         </image>
         <itunes:category text="Technology"/>
         <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1480590451</guid>
+      <title>Apple's Free U2 Album</title>
+      <pubDate>Sun, 02 Apr 2023 15:00:07 +0000</pubDate>
+      <link>https://soundcloud.com/techtalespodcast/apples-free-u2-album</link>
+      <itunes:duration>00:44:05</itunes:duration>
+      <itunes:author>Corbin Davenport</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Apple partnered with Irish rock band U2 in 2014 to give the group's new album, Songs of Innocence, to everyone with an Apple account. Apple called it the largest album release of all time, but it immediately sparked controversy in the music industry, and many of Apple's own customers weren't thrilled.
+
+Hosted by Corbin Davenport, guest starring Joe Fedewa.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support the Show: https://techtalesshow.com/support
+
+Videos:
+    • https://youtu.be/38IqQpwPe7s?t=6179
+    • https://youtu.be/4_9YWhyHmPg
+    • https://youtu.be/wAxmGAZBBtY
+
+Sources:
+    • https://time.com/3397067/u2s-mission-to-save-music/
+    • https://qz.com/262852/u2s-apple-deal-shows-why-musicians-dont-sell-music-anymore
+    • https://www.billboard.com/pro/itunes-numbers-u2-songs-innocence-album/
+    • https://www.rollingstone.com/music/music-features/after-innocence-u2-look-ahead-to-tour-new-lp-songs-of-experience-51361/
+    • https://web.archive.org/web/20141101181749/http://www.rollingstone.com/music/features/nick-mason-im-not-entirely-sure-pink-floyd-is-over-20141031?page=2
+    • https://www.theguardian.com/music/2014/oct/20/u2-uk-album-charts-first-week-songs-of-innocence-sales-meghan-trainor
+    • https://web.archive.org/web/20141101025133/http://blogs.seattletimes.com/soundposts/2014/10/15/black-keys-drummer-patrick-carney-u2-and-spotify-devalue-music/
+    • https://loudwire.com/buckcherry-keith-nelson-calls-out-u2-free-album-decision/
+    • https://www.theguardian.com/technology/2014/sep/15/apple-u2-album-itunes-delete
+    • https://www.theguardian.com/music/2022/oct/22/bono-memoir-birth-of-u2-itunes-album-live-aid-mullet</itunes:summary>
+      <itunes:subtitle>Apple partnered with Irish rock band U2 in 2014 t…</itunes:subtitle>
+      <description>Apple partnered with Irish rock band U2 in 2014 to give the group's new album, Songs of Innocence, to everyone with an Apple account. Apple called it the largest album release of all time, but it immediately sparked controversy in the music industry, and many of Apple's own customers weren't thrilled.
+
+Hosted by Corbin Davenport, guest starring Joe Fedewa.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support the Show: https://techtalesshow.com/support
+
+Videos:
+    • https://youtu.be/38IqQpwPe7s?t=6179
+    • https://youtu.be/4_9YWhyHmPg
+    • https://youtu.be/wAxmGAZBBtY
+
+Sources:
+    • https://time.com/3397067/u2s-mission-to-save-music/
+    • https://qz.com/262852/u2s-apple-deal-shows-why-musicians-dont-sell-music-anymore
+    • https://www.billboard.com/pro/itunes-numbers-u2-songs-innocence-album/
+    • https://www.rollingstone.com/music/music-features/after-innocence-u2-look-ahead-to-tour-new-lp-songs-of-experience-51361/
+    • https://web.archive.org/web/20141101181749/http://www.rollingstone.com/music/features/nick-mason-im-not-entirely-sure-pink-floyd-is-over-20141031?page=2
+    • https://www.theguardian.com/music/2014/oct/20/u2-uk-album-charts-first-week-songs-of-innocence-sales-meghan-trainor
+    • https://web.archive.org/web/20141101025133/http://blogs.seattletimes.com/soundposts/2014/10/15/black-keys-drummer-patrick-carney-u2-and-spotify-devalue-music/
+    • https://loudwire.com/buckcherry-keith-nelson-calls-out-u2-free-album-decision/
+    • https://www.theguardian.com/technology/2014/sep/15/apple-u2-album-itunes-delete
+    • https://www.theguardian.com/music/2022/oct/22/bono-memoir-birth-of-u2-itunes-album-live-aid-mullet</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1480590451-techtalespodcast-apples-free-u2-album.mp3" length="31322702"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-5eS6oeKYtx8CmuvQ-oYDMQw-t3000x3000.jpg"/>
+    </item><item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/1474463266</guid>
       <title>The Internet Explorer Story: Part 8</title>
       <pubDate>Wed, 22 Mar 2023 15:00:28 +0000</pubDate>

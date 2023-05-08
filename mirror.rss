@@ -5,8 +5,8 @@
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:971533159/sounds.rss?before=1067922847" rel="next" type="application/rss+xml"/>
         <title>Tech Tales</title>
         <link>https://techtalesshow.com</link>
-        <pubDate>Wed, 29 Mar 2023 20:54:57 +0000</pubDate>
-        <lastBuildDate>Wed, 29 Mar 2023 20:54:57 +0000</lastBuildDate>
+        <pubDate>Sun, 07 May 2023 04:40:22 +0000</pubDate>
+        <lastBuildDate>Sun, 07 May 2023 04:40:22 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>All rights reserved</copyright>
@@ -27,6 +27,61 @@
         </image>
         <itunes:category text="Technology"/>
         <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1508379676</guid>
+      <title>The Internet Explorer Story: Part 9</title>
+      <pubDate>Sun, 07 May 2023 15:00:10 +0000</pubDate>
+      <link>https://soundcloud.com/techtalespodcast/the-internet-explorer-story-part-9</link>
+      <itunes:duration>00:36:00</itunes:duration>
+      <itunes:author>Corbin Davenport</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Internet Explorer 10 arrived in 2012, alongside the release of Windows 8, sporting a new Metro look and a controversial privacy change. Microsoft followed it up with IE 11 in 2013, which would ultimately be the final release branded as Internet Explorer.
+
+Hosted by Corbin Davenport, guest starring Cody Toombs.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support the Show: https://techtalesshow.com/support
+
+Sources:
+    • https://www.reuters.com/article/microsoft-browser/update-1-germany-urges-public-to-stop-using-internet-explorer-idUSL1E8KILM020120918
+    • https://www.zdnet.com/article/microsoft-to-begin-automatic-internet-explorer-upgrades-in-2012/
+    • https://www.nbcnews.com/tech/tech-news/council-foreign-relations-website-hacked-flna1C7755879
+    • https://www.nytimes.com/2012/10/14/technology/do-not-track-movement-is-drawing-advertisers-fire.html
+    • https://www.csoonline.com/article/2905861/microsoft-rolls-back-commitment-to-do-not-track.html
+    • https://www.pcmag.com/reviews/microsoft-internet-explorer-10
+    • https://web.archive.org/web/20130312025639/http://blogs.msdn.com/b/ie/archive/2013/03/11/flash-in-windows-8.aspx
+    • https://pureinfotech.com/internet-explorer-10-for-windows-7-now-whats-next/
+    • https://www.bbc.com/news/technology-18440979
+    • https://www.zdnet.com/article/internet-explorer-11-arrives-with-windows-8-1-preview/
+    • https://www.cnet.com/news/privacy/internet-explorer-exploit-release-could-trigger-a-surge-in-attacks/</itunes:summary>
+      <itunes:subtitle>Internet Explorer 10 arrived in 2012, alongside t…</itunes:subtitle>
+      <description>Internet Explorer 10 arrived in 2012, alongside the release of Windows 8, sporting a new Metro look and a controversial privacy change. Microsoft followed it up with IE 11 in 2013, which would ultimately be the final release branded as Internet Explorer.
+
+Hosted by Corbin Davenport, guest starring Cody Toombs.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support the Show: https://techtalesshow.com/support
+
+Sources:
+    • https://www.reuters.com/article/microsoft-browser/update-1-germany-urges-public-to-stop-using-internet-explorer-idUSL1E8KILM020120918
+    • https://www.zdnet.com/article/microsoft-to-begin-automatic-internet-explorer-upgrades-in-2012/
+    • https://www.nbcnews.com/tech/tech-news/council-foreign-relations-website-hacked-flna1C7755879
+    • https://www.nytimes.com/2012/10/14/technology/do-not-track-movement-is-drawing-advertisers-fire.html
+    • https://www.csoonline.com/article/2905861/microsoft-rolls-back-commitment-to-do-not-track.html
+    • https://www.pcmag.com/reviews/microsoft-internet-explorer-10
+    • https://web.archive.org/web/20130312025639/http://blogs.msdn.com/b/ie/archive/2013/03/11/flash-in-windows-8.aspx
+    • https://pureinfotech.com/internet-explorer-10-for-windows-7-now-whats-next/
+    • https://www.bbc.com/news/technology-18440979
+    • https://www.zdnet.com/article/internet-explorer-11-arrives-with-windows-8-1-preview/
+    • https://www.cnet.com/news/privacy/internet-explorer-exploit-release-could-trigger-a-surge-in-attacks/</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1508379676-techtalespodcast-the-internet-explorer-story-part-9.mp3" length="28411260"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-R8xq6tzQwmnfn1hb-XQzZNA-t3000x3000.jpg"/>
+    </item><item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/1480590451</guid>
       <title>Apple's Free U2 Album</title>
       <pubDate>Sun, 02 Apr 2023 15:00:07 +0000</pubDate>

@@ -5,8 +5,8 @@
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:971533159/sounds.rss?before=1067922847" rel="next" type="application/rss+xml"/>
         <title>Tech Tales</title>
         <link>https://techtalesshow.com</link>
-        <pubDate>Wed, 24 May 2023 05:59:24 +0000</pubDate>
-        <lastBuildDate>Wed, 24 May 2023 05:59:24 +0000</lastBuildDate>
+        <pubDate>Sun, 28 May 2023 01:28:31 +0000</pubDate>
+        <lastBuildDate>Sun, 28 May 2023 01:28:31 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>All rights reserved</copyright>
@@ -27,6 +27,67 @@
         </image>
         <itunes:category text="Technology"/>
         <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1524282058</guid>
+      <title>The Internet Explorer Story: Part 10</title>
+      <pubDate>Tue, 30 May 2023 15:00:18 +0000</pubDate>
+      <link>https://soundcloud.com/techtalespodcast/the-internet-explorer-story-part-10</link>
+      <itunes:duration>00:50:32</itunes:duration>
+      <itunes:author>Corbin Davenport</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Microsoft tried one last time to reinvent Internet Explorer in 2015, with the arrival of Microsoft Edge alongside Windows 10. It had a modernized engine and new features, but only a few years later, the last remnants of Internet Explorer were removed.
+
+Hosted by Corbin Davenport, guest starring Cody Toombs.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support the Show: https://techtalesshow.com/support
+
+Videos:
+    • https://youtu.be/4A5ZXWTIlHw
+
+Sources:
+    • https://blogs.windows.com/msedgedev/2015/01/22/project-spartan-and-the-windows-10-january-preview-build/
+    • https://blogs.windows.com/windows-insider/2015/03/30/introducing-project-spartan-the-new-browser-built-for-windows-10/
+    • https://www.theverge.com/2015/7/29/9066255/microsoft-windows-edge-browser-review
+    • https://blogs.windows.com/windowsexperience/2018/12/06/microsoft-edge-making-the-web-better-through-more-open-source-collaboration/
+    • https://www.zeldman.com/2018/12/07/browser-diversity-starts-with-us/
+    • https://andy-bell.design/wrote/browser-diversity/
+    • https://blog.mozilla.org/en/mozilla/goodbye-edge/
+    • https://news.ycombinator.com/item?id=18697824
+    • https://blogs.windows.com/windowsexperience/2022/06/15/internet-explorer-11-has-retired-and-is-officially-out-of-support-what-you-need-to-know/
+    • https://www.theverge.com/2017/10/5/16428658/microsoft-edge-ios-android-preview
+    • https://www.theverge.com/2018/12/19/18148736/google-youtube-microsoft-edge-intern-claims</itunes:summary>
+      <itunes:subtitle>Microsoft tried one last time to reinvent Interne…</itunes:subtitle>
+      <description>Microsoft tried one last time to reinvent Internet Explorer in 2015, with the arrival of Microsoft Edge alongside Windows 10. It had a modernized engine and new features, but only a few years later, the last remnants of Internet Explorer were removed.
+
+Hosted by Corbin Davenport, guest starring Cody Toombs.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support the Show: https://techtalesshow.com/support
+
+Videos:
+    • https://youtu.be/4A5ZXWTIlHw
+
+Sources:
+    • https://blogs.windows.com/msedgedev/2015/01/22/project-spartan-and-the-windows-10-january-preview-build/
+    • https://blogs.windows.com/windows-insider/2015/03/30/introducing-project-spartan-the-new-browser-built-for-windows-10/
+    • https://www.theverge.com/2015/7/29/9066255/microsoft-windows-edge-browser-review
+    • https://blogs.windows.com/windowsexperience/2018/12/06/microsoft-edge-making-the-web-better-through-more-open-source-collaboration/
+    • https://www.zeldman.com/2018/12/07/browser-diversity-starts-with-us/
+    • https://andy-bell.design/wrote/browser-diversity/
+    • https://blog.mozilla.org/en/mozilla/goodbye-edge/
+    • https://news.ycombinator.com/item?id=18697824
+    • https://blogs.windows.com/windowsexperience/2022/06/15/internet-explorer-11-has-retired-and-is-officially-out-of-support-what-you-need-to-know/
+    • https://www.theverge.com/2017/10/5/16428658/microsoft-edge-ios-android-preview
+    • https://www.theverge.com/2018/12/19/18148736/google-youtube-microsoft-edge-intern-claims</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1524282058-techtalespodcast-the-internet-explorer-story-part-10.mp3" length="42521349"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-R8xq6tzQwmnfn1hb-XQzZNA-t3000x3000.jpg"/>
+    </item><item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/1508379676</guid>
       <title>The Internet Explorer Story: Part 9</title>
       <pubDate>Sun, 07 May 2023 15:00:10 +0000</pubDate>

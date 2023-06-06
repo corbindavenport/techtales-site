@@ -5,8 +5,8 @@
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:971533159/sounds.rss?before=1067922847" rel="next" type="application/rss+xml"/>
         <title>Tech Tales</title>
         <link>https://techtalesshow.com</link>
-        <pubDate>Sun, 28 May 2023 01:28:31 +0000</pubDate>
-        <lastBuildDate>Sun, 28 May 2023 01:28:31 +0000</lastBuildDate>
+        <pubDate>Sun, 04 Jun 2023 18:59:13 +0000</pubDate>
+        <lastBuildDate>Sun, 04 Jun 2023 18:59:13 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>All rights reserved</copyright>
@@ -27,6 +27,31 @@
         </image>
         <itunes:category text="Technology"/>
         <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1530707104</guid>
+      <title>Outtakes #2</title>
+      <pubDate>Mon, 05 Jun 2023 15:00:14 +0000</pubDate>
+      <link>https://soundcloud.com/techtalespodcast/outtakes-2</link>
+      <itunes:duration>00:14:28</itunes:duration>
+      <itunes:author>Corbin Davenport</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>This special episode is a compilation of outtakes from recent episodes of Tech Tales. Enjoy!
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support the Show: https://techtalesshow.com/support</itunes:summary>
+      <itunes:subtitle>This special episode is a compilation of outtakes…</itunes:subtitle>
+      <description>This special episode is a compilation of outtakes from recent episodes of Tech Tales. Enjoy!
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support the Show: https://techtalesshow.com/support</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1530707104-techtalespodcast-outtakes-2.mp3" length="8411802"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-zpat0VYEhP3ny1nj-cO6AHA-t3000x3000.jpg"/>
+    </item><item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/1524282058</guid>
       <title>The Internet Explorer Story: Part 10</title>
       <pubDate>Tue, 30 May 2023 15:00:18 +0000</pubDate>

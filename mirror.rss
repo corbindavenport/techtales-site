@@ -5,8 +5,8 @@
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:971533159/sounds.rss?before=1067922847" rel="next" type="application/rss+xml"/>
         <title>Tech Tales</title>
         <link>https://techtalesshow.com</link>
-        <pubDate>Sun, 04 Jun 2023 18:59:13 +0000</pubDate>
-        <lastBuildDate>Sun, 04 Jun 2023 18:59:13 +0000</lastBuildDate>
+        <pubDate>Mon, 19 Jun 2023 20:16:47 +0000</pubDate>
+        <lastBuildDate>Mon, 19 Jun 2023 20:16:47 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>All rights reserved</copyright>
@@ -27,6 +27,73 @@
         </image>
         <itunes:category text="Technology"/>
         <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1544823355</guid>
+      <title>Duke Nukem Forever</title>
+      <pubDate>Tue, 20 Jun 2023 15:00:16 +0000</pubDate>
+      <link>https://soundcloud.com/techtalespodcast/duke-nukem-forever</link>
+      <itunes:duration>00:53:44</itunes:duration>
+      <itunes:author>Corbin Davenport</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Duke Nukem 3D took the world by storm in 1996, pushing first-person shooter video games to a new frontier. The sequel, Duke Nukem Forever, was planned for release before the end of 1998, but remained stuck in development hell for over 14 years.
+
+Hosted by Corbin Davenport, guest starring Katie Janzen.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support the Show: https://techtalesshow.com/support
+
+Videos:
+    • https://youtu.be/nP34zCaRHHE
+    • https://youtu.be/kR6qFFEkALg
+    • https://youtu.be/TDlB2P1leRM
+    • https://youtu.be/wVuuyRGB_BA
+
+Sources:
+    • https://www.wired.com/2009/12/fail-duke-nukem/
+    • https://arstechnica.com/gaming/2011/06/duke-nukem-forever-review-barely-playable-unfunny-and-rampantly-offensive/
+    • https://www.pcgamer.com/duke-nukem-forever-review/
+    • https://www.gamespot.com/reviews/duke-nukem-forever-review/1900-6319604/
+    • https://web.archive.org/web/20170403154935/http://www.dualshockers.com/2017/04/03/bulletstorm-full-clip-edition-interview/
+    • https://www.apogeeent.com/devblog/dnf-truth
+    • https://twitter.com/georgebsocial/status/1524122762679304194
+    • https://www.wired.com/2010/09/randy-pitchford-duke-nukem/
+    • https://www.wsj.com/articles/BL-SEB-45933
+    • https://www.gamespot.com/articles/3d-realms-denies-duke-nukem-forever-using-doom-3-engine/1100-6107100/
+    • https://legacy.3drealms.com/press/dnfunreal.html</itunes:summary>
+      <itunes:subtitle>Duke Nukem 3D took the world by storm in 1996, pu…</itunes:subtitle>
+      <description>Duke Nukem 3D took the world by storm in 1996, pushing first-person shooter video games to a new frontier. The sequel, Duke Nukem Forever, was planned for release before the end of 1998, but remained stuck in development hell for over 14 years.
+
+Hosted by Corbin Davenport, guest starring Katie Janzen.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support the Show: https://techtalesshow.com/support
+
+Videos:
+    • https://youtu.be/nP34zCaRHHE
+    • https://youtu.be/kR6qFFEkALg
+    • https://youtu.be/TDlB2P1leRM
+    • https://youtu.be/wVuuyRGB_BA
+
+Sources:
+    • https://www.wired.com/2009/12/fail-duke-nukem/
+    • https://arstechnica.com/gaming/2011/06/duke-nukem-forever-review-barely-playable-unfunny-and-rampantly-offensive/
+    • https://www.pcgamer.com/duke-nukem-forever-review/
+    • https://www.gamespot.com/reviews/duke-nukem-forever-review/1900-6319604/
+    • https://web.archive.org/web/20170403154935/http://www.dualshockers.com/2017/04/03/bulletstorm-full-clip-edition-interview/
+    • https://www.apogeeent.com/devblog/dnf-truth
+    • https://twitter.com/georgebsocial/status/1524122762679304194
+    • https://www.wired.com/2010/09/randy-pitchford-duke-nukem/
+    • https://www.wsj.com/articles/BL-SEB-45933
+    • https://www.gamespot.com/articles/3d-realms-denies-duke-nukem-forever-using-doom-3-engine/1100-6107100/
+    • https://legacy.3drealms.com/press/dnfunreal.html</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1544823355-techtalespodcast-duke-nukem-forever.mp3" length="35270908"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-QcSzjz5bbkO3jc2f-DvlNjQ-t3000x3000.jpg"/>
+    </item><item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/1530707104</guid>
       <title>Outtakes #2</title>
       <pubDate>Mon, 05 Jun 2023 15:00:14 +0000</pubDate>

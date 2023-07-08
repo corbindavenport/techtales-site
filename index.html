@@ -8,25 +8,26 @@
     <title>Tech Tales Podcast</title>
     <link rel="icon" type="image/png" sizes="24x24" href="/img/icon_x24.png">
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
-    <meta name="theme-color" content="#c2eace">
-    <meta name="apple-mobile-web-app-status-bar-style" content="#c2eace">
-    <!-- Meta info -->
-    <meta property="og:site_name" content="Tech Tales Podcast" />
-    <meta name="description" content="Tech Tales is a podcast exploring the technology world's epic failures, forgotten successes, and everything in between.">
-    <meta name="viewport" content="initial-scale=1">
-    <meta name="keywords" content="tech tales, podcast">
-    <meta name="language" content="English">
-    <!-- Twitter card -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <!-- Theme colors -->
+    <meta name="color-scheme" content="dark light">
+    <meta name="theme-color" media="(prefers-color-scheme: light)" content="#FFF">
+    <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#212529">
+    <!-- Open Graph card -->
+    <meta property="og:url" content="https://techtalesshow.com" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Tech Tales Podcast" />
+    <meta property="og:description" content="Tech Tales is a podcast exploring the technology world's epic failures, forgotten successes, and everything in between." />
+    <meta property="og:image" content="https://techtalesshow.com/img/twitter-card.jpg" />
+    <meta property="og:image:width" content="1000" />
+    <meta property="og:image:height" content="1000" />
+    <meta name="og:image:alt" content="Tech Tales logo" />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:site" content="@TechTalesShow" />
-    <meta name="twitter:title" content="Tech Tales Podcast" />
-    <meta name="twitter:description" content="Tech Tales is a podcast exploring the technology world's epic failures, forgotten successes, and everything in between." />
-    <meta name="twitter:image" content="https://techtalesshow.com/img/twitter-card.jpg" />
     <!-- RSS -->
     <link rel="alternate" type="application/rss+xml" title="Tech Tales RSS" href="https://feeds.soundcloud.com/users/soundcloud:users:971533159/sounds.rss" />
-    <!-- Bootstrap + CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
+    <!-- Styles -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
     <link href="https://fonts.googleapis.com/css?family=Righteous&display=swap" rel="stylesheet">
     <link href="/styles.css" rel="stylesheet">
@@ -35,7 +36,7 @@
 </head>
 
 <body>
-
+    <!-- Navigation bar -->
     <nav class="navbar navbar-expand-sm navbar-light bg-light fixed-top border-bottom">
         <div class="container-fluid">
             <a class="navbar-brand p-0" href="/">
@@ -83,10 +84,8 @@
             </div>
         </div>
     </nav>
-
     <!-- Description -->
-
-    <div class="mt-5 bg-techtales pt-5 pb-5">
+    <div class="mt-5 bg-techtales pt-3 pt-sm-5 pb-1 pb-sm-3">
         <div class="container">
             <div class="row">
                 <h1 class="display-5 techtales-header">Welcome to Tech Tales.</h1>
@@ -94,21 +93,16 @@
             </div>
         </div>
     </div>
-
     <!-- Rest of page -->
-
     <div class="container">
-
         <!-- Subscribe links -->
-
-        <div class="mt-5 fs-3 techtales-header">Available for free on your favorite platforms!</div>
-
-        <div class="row mt-4">
+        <div class="mt-sm-5 fs-3 techtales-header">Listen now on your favorite platform!</div>
+        <div class="row mt-2">
             <!-- Spotify -->
             <div class="col-12 col-sm-6 col-xl-3">
                 <a href="https://open.spotify.com/show/5gFB6RWAeCG3HA2ezn4dtQ" target="_blank">
                     <button type="button" class="btn btn-success w-100 mt-3">
-                        <i class="bi bi-spotify"></i>
+                        <i class="bi bi-spotify me-1"></i>
                         Spotify
                     </button>
                 </a>
@@ -117,7 +111,7 @@
             <div class="col-12 col-sm-6 col-xl-3">
                 <a href="https://www.youtube.com/channel/UCoJhtqauQgAykvSLQSyu7UQ?sub_confirmation=1" target="_blank">
                     <button type="button" class="btn btn-danger w-100 mt-3">
-                        <i class="bi bi-youtube"></i>
+                        <i class="bi bi-youtube me-1"></i>
                         YouTube
                     </button>
                 </a>
@@ -126,7 +120,7 @@
             <div class="col-12 col-sm-6 col-xl-3">
                 <a href="https://soundcloud.com/techtalespodcast" target="_blank">
                     <button type="button" class="btn btn-warning w-100 mt-3">
-                        <i class="bi bi-cloud"></i>
+                        <i class="bi bi-cloud me-1"></i>
                         SoundCloud
                     </button>
                 </a>
@@ -135,7 +129,7 @@
             <div class="col-12 col-sm-6 col-xl-3">
                 <a href="https://podcasts.apple.com/us/podcast/tech-tales/id1572321390" target="_blank">
                     <button type="button" class="btn btn-secondary w-100 mt-3">
-                        <i class="bi bi-apple"></i>
+                        <i class="bi bi-apple me-1"></i>
                         Apple Podcasts
                     </button>
                 </a>
@@ -144,7 +138,7 @@
             <div class="col-12 col-sm-6 col-xl-3">
                 <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjk3MTUzMzE1OS9zb3VuZHMucnNz" target="_blank">
                     <button type="button" class="btn btn-secondary w-100 mt-3">
-                        <i class="bi bi-google"></i>
+                        <i class="bi bi-google me-1"></i>
                         Google Podcasts
                     </button>
                 </a>
@@ -153,7 +147,7 @@
             <div class="col-12 col-sm-6 col-xl-3">
                 <a href="https://pca.st/bphfxx5c" target="_blank">
                     <button type="button" class="btn btn-danger w-100 mt-3">
-                        <i class="bi bi-bullseye"></i>
+                        <i class="bi bi-bullseye me-1"></i>
                         Pocket Casts
                     </button>
                 </a>
@@ -162,17 +156,8 @@
             <div class="col-12 col-sm-6 col-xl-3">
                 <a href="https://music.amazon.com/podcasts/f250358a-af1a-477a-a0d5-cec00e359cb6/tech-tales" target="_blank">
                     <button type="button" class="btn btn-dark w-100 mt-3">
-                        <i class="bi bi-music-note-beamed"></i>
+                        <i class="bi bi-music-note-beamed me-1"></i>
                         Amazon Music
-                    </button>
-                </a>
-            </div>
-            <!-- RSS -->
-            <div class="col-12 col-sm-6 col-xl-3">
-                <a href="https://feeds.soundcloud.com/users/soundcloud:users:971533159/sounds.rss" target="_blank">
-                    <button type="button" class="btn btn-primary w-100 mt-3">
-                        <i class="bi bi-rss"></i>
-                        RSS Feed
                     </button>
                 </a>
             </div>
@@ -180,20 +165,35 @@
             <div class="col-12 col-sm-6 col-xl-3">
                 <a href="https://tunein.com/podcasts/Technology-Podcasts/Tech-Tales-p3701172/" target="_blank">
                     <button type="button" class="btn btn-info w-100 mt-3">
-                        <i class="bi bi-broadcast"></i>
+                        <i class="bi bi-broadcast me-1"></i>
                         TuneIn
                     </button>
                 </a>
             </div>
+            <!-- Audible -->
+            <div class="col-12 col-sm-6 col-xl-3">
+                <a href="https://www.audible.com/pd/Podcast/B08K57XVPR" target="_blank">
+                    <button type="button" class="btn btn-warning w-100 mt-3">
+                        <i class="bi bi-book me-1"></i>
+                        Audible
+                    </button>
+                </a>
+            </div>
+            <!-- RSS -->
+            <div class="col-12 col-sm-6 col-xl-3">
+                <a href="https://feeds.soundcloud.com/users/soundcloud:users:971533159/sounds.rss" target="_blank">
+                    <button type="button" class="btn btn-primary w-100 mt-3">
+                        <i class="bi bi-rss me-1"></i>
+                        RSS Feed
+                    </button>
+                </a>
+            </div>
         </div>
-
         <!-- Social media links -->
-
         <div class="mt-5 fs-3 techtales-header">Tech Tales is also on social media!</div>
-
-        <div class="row mt-4">
+        <div class="row mt-2">
             <!-- Twitter -->
-            <div class="col-12 col-sm-4">
+            <div class="col-12 col-md-6">
                 <a href="https://twitter.com/intent/follow?screen_name=TechTalesShow" target="_blank">
                     <button type="button" class="btn btn-primary w-100 mt-3">
                         <i class="bi bi-twitter"></i>
@@ -202,35 +202,22 @@
                 </a>
             </div>
             <!-- Mastodon -->
-            <div class="col-12 col-sm-4">
-                <a rel="me" href="https://mas.to/web/@techtales" target="_blank">
+            <div class="col-12 col-md-6">
+                <a rel="me" href="https://mas.to/@techtales" target="_blank">
                     <button type="button" class="btn btn-success w-100 mt-3">
                         <i class="bi bi-mastodon"></i>
                         Follow on Mastodon/Fediverse
                     </button>
                 </a>
             </div>
-            <!-- Twitter -->
-            <div class="col-12 col-sm-4">
-                <a href="https://www.reddit.com/r/TechTalesPodcast/" target="_blank">
-                    <button type="button" class="btn btn-danger w-100 mt-3">
-                        <i class="bi bi-reddit"></i>
-                        Join Tech Tales Reddit
-                    </button>
-                </a>
-            </div>
         </div>
-
         <!-- Contact -->
-
         <div class="mt-5 fs-3 techtales-header" style="font-family: 'Righteous', sans-serif;">Got a question or a topic suggestion?</div>
-
-        <div class="mt-4 mb-4">
+        <div class="mt-4 mb-5">
             Send us an email at <a href="mailto:contact@techtalesshow.com">contact at techtalesshow dot com</a>.
         </div>
-
     </div>
-
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
 </body>
 
 </html>

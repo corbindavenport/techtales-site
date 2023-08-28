@@ -5,8 +5,8 @@
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:971533159/sounds.rss?before=1067922847" rel="next" type="application/rss+xml"/>
         <title>Tech Tales</title>
         <link>https://techtalesshow.com</link>
-        <pubDate>Sun, 06 Aug 2023 01:02:37 +0000</pubDate>
-        <lastBuildDate>Sun, 06 Aug 2023 01:02:37 +0000</lastBuildDate>
+        <pubDate>Sat, 26 Aug 2023 22:18:01 +0000</pubDate>
+        <lastBuildDate>Sat, 26 Aug 2023 22:18:01 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>All rights reserved</copyright>
@@ -27,6 +27,85 @@
         </image>
         <itunes:category text="Technology"/>
         <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1601846082</guid>
+      <title>CyanogenMod</title>
+      <pubDate>Sun, 27 Aug 2023 15:00:10 +0000</pubDate>
+      <link>https://soundcloud.com/techtalespodcast/cyanogenmod</link>
+      <itunes:duration>00:46:08</itunes:duration>
+      <itunes:author>Corbin Davenport</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>CyanogenMod started as a custom build of Android for one smartphone, and quickly grew into an operating system spanning hundreds of devices. With the corporate backing of Microsoft and partnerships with OEMs, it seemed unstoppable... until it wasn't.
+
+Hosted by Corbin Davenport, guest starring Joe Fedewa.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support the Show: https://techtalesshow.com/support
+
+Videos:
+    • https://youtu.be/Yo93KcPJhwQ
+
+Sources:
+    • https://web.archive.org/web/20090529101257/http://forum.xda-developers.com:80/showthread.php?t=518851
+    • https://web.archive.org/web/20100207180125/http://www.cyanogenmod.com/about
+    • https://www.androidpolice.com/2010/05/17/custom-rom-review-cyanogenmod-for-the-nexus-one/
+    • https://www.androidpolice.com/2010/05/17/custom-rom-review-cyanogenmod-for-the-nexus-one/
+    • https://web.archive.org/web/20160711211620/http://www.cyanogenmod.org/blog/a_new_chapter
+    • https://techcrunch.com/2013/09/18/cyanogen-mod-7m-benchmark/
+    • https://www.theverge.com/2014/1/15/5241970/oppo-n1-with-cyanogenmod-review
+    • https://www.cnet.com/tech/mobile/open-source-android-startup-raises-80m-with-help-from-twitter/
+    • https://www.theinformation.com/articles/cyanogen-spurns-google-acquisition-interest-seeks-1-billion-valuation
+    • https://www.theverge.com/2014/11/18/7241755/cyanogens-next-stop-is-india
+    • https://www.androidpolice.com/2014/12/16/oneplus-has-been-ordered-to-stop-selling-the-oneplus-one-in-india-after-legal-action-by-micromax/
+    • https://www.androidpolice.com/2014/12/19/emails-from-indian-court-docs-show-cyanogen-oneplus-relationship-ended-poorly-cyanogen-ceo-is-kind-of-a-jerk/
+    • https://www.forbes.com/sites/miguelhelft/2015/03/23/meet-cyanogen-the-startup-that-wants-to-steal-android-from-google-2/
+    • https://www.businessinsider.com/cyanogen-ceo-kirt-mcmaster-interview-mods-virtual-reality-smartphones-2016-2
+    • https://www.androidpolice.com/2016/12/01/steve-kondik-blames-kirt-mcmaster-for-cyanogen-incs-failure-cyanogenmod-to-reorganize-and-regroup/
+    • https://www.theverge.com/2015/4/16/8427381/cyanogen-microsoft-partnership-apps-services-bundle
+    • https://www.theverge.com/2015/9/14/9323131/microsoft-cortana-cyanogen-os
+    • https://www.androidpolice.com/2016/10/10/kirt-mcmaster-out-as-cyanogen-inc-ceo-gets-eric-schmidted-to-executive-chairman/
+    • https://www.androidpolice.com/2017/10/13/cyanogen-inc-rebrands-cyngn-autonomous-tech-company/
+    • https://web.archive.org/web/20181116144621/https://www.xda-developers.com/nintendo-approached-cyanogen-to-partner-for-the-switch-cyanogen-refused/</itunes:summary>
+      <itunes:subtitle>CyanogenMod started as a custom build of Android …</itunes:subtitle>
+      <description>CyanogenMod started as a custom build of Android for one smartphone, and quickly grew into an operating system spanning hundreds of devices. With the corporate backing of Microsoft and partnerships with OEMs, it seemed unstoppable... until it wasn't.
+
+Hosted by Corbin Davenport, guest starring Joe Fedewa.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support the Show: https://techtalesshow.com/support
+
+Videos:
+    • https://youtu.be/Yo93KcPJhwQ
+
+Sources:
+    • https://web.archive.org/web/20090529101257/http://forum.xda-developers.com:80/showthread.php?t=518851
+    • https://web.archive.org/web/20100207180125/http://www.cyanogenmod.com/about
+    • https://www.androidpolice.com/2010/05/17/custom-rom-review-cyanogenmod-for-the-nexus-one/
+    • https://www.androidpolice.com/2010/05/17/custom-rom-review-cyanogenmod-for-the-nexus-one/
+    • https://web.archive.org/web/20160711211620/http://www.cyanogenmod.org/blog/a_new_chapter
+    • https://techcrunch.com/2013/09/18/cyanogen-mod-7m-benchmark/
+    • https://www.theverge.com/2014/1/15/5241970/oppo-n1-with-cyanogenmod-review
+    • https://www.cnet.com/tech/mobile/open-source-android-startup-raises-80m-with-help-from-twitter/
+    • https://www.theinformation.com/articles/cyanogen-spurns-google-acquisition-interest-seeks-1-billion-valuation
+    • https://www.theverge.com/2014/11/18/7241755/cyanogens-next-stop-is-india
+    • https://www.androidpolice.com/2014/12/16/oneplus-has-been-ordered-to-stop-selling-the-oneplus-one-in-india-after-legal-action-by-micromax/
+    • https://www.androidpolice.com/2014/12/19/emails-from-indian-court-docs-show-cyanogen-oneplus-relationship-ended-poorly-cyanogen-ceo-is-kind-of-a-jerk/
+    • https://www.forbes.com/sites/miguelhelft/2015/03/23/meet-cyanogen-the-startup-that-wants-to-steal-android-from-google-2/
+    • https://www.businessinsider.com/cyanogen-ceo-kirt-mcmaster-interview-mods-virtual-reality-smartphones-2016-2
+    • https://www.androidpolice.com/2016/12/01/steve-kondik-blames-kirt-mcmaster-for-cyanogen-incs-failure-cyanogenmod-to-reorganize-and-regroup/
+    • https://www.theverge.com/2015/4/16/8427381/cyanogen-microsoft-partnership-apps-services-bundle
+    • https://www.theverge.com/2015/9/14/9323131/microsoft-cortana-cyanogen-os
+    • https://www.androidpolice.com/2016/10/10/kirt-mcmaster-out-as-cyanogen-inc-ceo-gets-eric-schmidted-to-executive-chairman/
+    • https://www.androidpolice.com/2017/10/13/cyanogen-inc-rebrands-cyngn-autonomous-tech-company/
+    • https://web.archive.org/web/20181116144621/https://www.xda-developers.com/nintendo-approached-cyanogen-to-partner-for-the-switch-cyanogen-refused/</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1601846082-techtalespodcast-cyanogenmod.mp3" length="33590376"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-og9mCYzA3y54kTEk-x174fg-t3000x3000.jpg"/>
+    </item><item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/1584597907</guid>
       <title>Announcements!</title>
       <pubDate>Mon, 07 Aug 2023 21:30:06 +0000</pubDate>

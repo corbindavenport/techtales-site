@@ -5,8 +5,8 @@
         <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:971533159/sounds.rss?before=1067922847" rel="next" type="application/rss+xml"/>
         <title>Tech Tales</title>
         <link>https://techtalesshow.com</link>
-        <pubDate>Sun, 08 Oct 2023 21:49:55 +0000</pubDate>
-        <lastBuildDate>Sun, 08 Oct 2023 21:49:55 +0000</lastBuildDate>
+        <pubDate>Wed, 06 Dec 2023 06:08:26 +0000</pubDate>
+        <lastBuildDate>Wed, 06 Dec 2023 06:08:26 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>en</language>
         <copyright>All rights reserved</copyright>
@@ -27,6 +27,39 @@
         </image>
         <itunes:category text="Technology"/>
         <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1683464955</guid>
+      <title>Movie Club: Tron (1982)</title>
+      <pubDate>Wed, 06 Dec 2023 16:00:27 +0000</pubDate>
+      <link>https://soundcloud.com/techtalespodcast/movie-club-tron</link>
+      <itunes:duration>01:11:43</itunes:duration>
+      <itunes:author>Corbin Davenport</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Watch Tron: https://www.justwatch.com/us/movie/tron-1
+
+Making of Tron documentary: https://youtu.be/sbgHMrLPQrE
+
+Hosted by Corbin Davenport, guest starring Zachary Wander and Joe Fedewa.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support the Show: https://techtalesshow.com/support</itunes:summary>
+      <itunes:subtitle>Watch Tron: https://www.justwatch.com/us/movie/tr…</itunes:subtitle>
+      <description>Watch Tron: https://www.justwatch.com/us/movie/tron-1
+
+Making of Tron documentary: https://youtu.be/sbgHMrLPQrE
+
+Hosted by Corbin Davenport, guest starring Zachary Wander and Joe Fedewa.
+
+Follow on Twitter: https://twitter.com/TechTalesShow
+
+Follow on Mastodon/Fediverse: https://mas.to/@techtales
+
+Support the Show: https://techtalesshow.com/support</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1683464955-techtalespodcast-movie-club-tron.mp3" length="68861462"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-RTstU1lfbXrXxUhs-y2FIFQ-t3000x3000.jpg"/>
+    </item><item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/1635381003</guid>
       <title>The Intellivision Amico</title>
       <pubDate>Mon, 09 Oct 2023 15:00:18 +0000</pubDate>
